@@ -1,0 +1,1225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect relation of the whole transactions concerning the petition of the six counties of South-Wales, and the county of Monmouth, formerly presented to the Parliament of the Common-Wealth of England for a supply of Godly ministers, and an account of ecclesiasticall revenues therein with Parliaments resolves, and proceedings thereupon, now humbly represented to His Highnesse the Lord Protector's consideration / published by A.G.</title>
+            <author>Griffith, Alexander, d. 1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 135 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42137</idno>
+            <idno type="STC">Wing G1989</idno>
+            <idno type="STC">ESTC R177698</idno>
+            <idno type="EEBO-CITATION">12846715</idno>
+            <idno type="OCLC">ocm 12846715</idno>
+            <idno type="VID">94444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94444)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 713:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect relation of the whole transactions concerning the petition of the six counties of South-Wales, and the county of Monmouth, formerly presented to the Parliament of the Common-Wealth of England for a supply of Godly ministers, and an account of ecclesiasticall revenues therein with Parliaments resolves, and proceedings thereupon, now humbly represented to His Highnesse the Lord Protector's consideration / published by A.G.</title>
+                  <author>Griffith, Alexander, d. 1690.</author>
+               </titleStmt>
+               <extent>[4], 52 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for Math. Ekins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The epistle signed: Alex. Griffith.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Benefices.</term>
+               <term>Clergy --  Wales.</term>
+               <term>Wales --  Church history.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94444:1"/>
+            <pb facs="tcp:94444:1" rendition="simple:additions"/>
+            <p>A true and perfect RELATION OF THE VVHOLE TRANSACTION <hi>CONCERNING</hi> The PETITION of the Six Counties of <hi>South-wales,</hi> and the County of Monmouth, formerly preſented to the <hi>Parliament</hi> of the <hi>Common-Wealth,</hi> of <hi>ENGLAND,</hi> For a ſupply of Godly Miniſters, And an Account of Eccleſiaſticall Revenues therein: With the PARLIAMENTS Reſolves, and Proceedings thereupon. Now humbly Repreſented to his Highneſſe the Lord <hi>PROTECTOR'S</hi> Conſideration.</p>
+            <p>
+               <hi>Publiſhed by</hi> A. G.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>J. G.</hi> for <hi>Math. Ekins,</hi> at the Gun in St. <hi>Pauls</hi> Church-yard, 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94444:2"/>
+            <pb facs="tcp:94444:2"/>
+            <head>To his moſt Excellent Highneſſe, <hi>OLIVER</hi> Lord Protector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging.</head>
+            <opener>
+               <salute>May it pleaſe your Highneſſe,</salute>
+            </opener>
+            <p>THe <hi>Nation of Wales,</hi> being deſcribed to the former <hi>Parliament</hi> to be overſpread with <hi>Ignorance</hi> and <hi>Prophanenes. Was</hi> by the <hi>Members</hi> thereof, <hi>Taken</hi> into <hi>conſideration,</hi> And paſſed <hi>an Act for the better Propagation, and Preaching of the Goſpell in Wales;</hi> For the putting whereof in <hi>execution</hi> divers <hi>Commiſſion<g ref="char:EOLhyphen"/>ers</hi> were <hi>Authorized,</hi> and impowered to <hi>Amove</hi> and <hi>Eject</hi> thoſe of the <hi>Miniſtery,</hi> whom they conceived to be unworthy: And perſons were <hi>Nominated</hi> to <hi>Recommend,</hi> and <hi>approve,</hi> ſuch men, as they ſhould judge fit for the <hi>advancement</hi> of the <hi>Goſpell</hi> in thoſe <hi>Coun<g ref="char:EOLhyphen"/>tries.</hi> The <hi>Commiſſioners</hi> according to their Authority, proceeded in the work; So that in a ſhort space, the <hi>Ancient Clergy</hi> were (for the moſt part) indiſcriminally <hi>ejected,</hi> The <hi>Tithes Sequeſtred,</hi> The <hi>Pariſhes</hi> left unſupplied, <hi>The bleſſed Ordinance of Chriſt</hi> taken a<g ref="char:EOLhyphen"/>way from the <hi>Inhabitants,</hi> And they wholy <hi>debarred</hi> from any <hi>ſpi<g ref="char:EOLhyphen"/>rituall comfort</hi> to their pretious Soules, by any <hi>Power</hi> or <hi>diſpenſa<g ref="char:EOLhyphen"/>tion of</hi> Goſpell-<hi>Miniſtery,</hi> but what they muſt receive from ſome few <hi>Itinerants</hi> in their uncertaine meetings. This (out of a <hi>Soule-ſaving</hi> neceſſity) ſtirred up the ſpirits of many of the <hi>conſcientious Inhabi<g ref="char:EOLhyphen"/>tants</hi> to <hi>preſent</hi> that <hi>pious Petition</hi> of <hi>South-wales</hi> to the <hi>Honou<g ref="char:EOLhyphen"/>rable Houſe.</hi> But the <hi>Petitioners</hi> their <hi>Councell,</hi> and <hi>Sollicitors</hi> have been prejudiced in their <hi>Reputation,</hi> for diſcharging their duty therein to God, and their native <hi>Country,</hi> and rendred thereby <hi>un<g ref="char:EOLhyphen"/>capable</hi> of <hi>ſerving</hi> the ſame; And have been <hi>traduced</hi> to have fay<g ref="char:EOLhyphen"/>led to prove, and make good the <hi>Matters</hi> exhibited in the <hi>Petiti<g ref="char:EOLhyphen"/>on; Which</hi> conſtraines mee to <hi>publiſh this Narrative</hi> of the <hi>whole Tranſaction</hi> and <hi>Proceedings</hi> of the <hi>Parliament,</hi> with their <hi>Reſolves</hi> in Referring the ſame to the <hi>Committee for Plun<g ref="char:EOLhyphen"/>dred Miniſters;</hi> As alſo to make truly evident unto <hi>publick view</hi> the <hi>Petitioners</hi> particular <hi>charge,</hi> the <hi>Commionſſiers Anſwer,</hi> with the <hi>Petitioners Reply</hi> thereunto, as they were lodged with the <hi>Clerk</hi> for the <hi>Committee,</hi> according to their ſeverall <hi>Originall Copies, Or<g ref="char:EOLhyphen"/>ders</hi>
+               <pb facs="tcp:94444:3"/>
+and <hi>Reports, Proteſting,</hi> that I have not the leaſt thought out of <hi>malice,</hi> or <hi>ſelfe-ends</hi> to aſperſe or calumniate any mans <hi>Perſon;</hi> But only to ſet down matters of fact for the <hi>manifeſtation</hi> of <hi>Truth,</hi> to vindicate the <hi>Petitioners,</hi> their <hi>Councell,</hi> and <hi>Sollicitors</hi> from all malignant <hi>deſigne</hi> in promoting the <hi>Petition,</hi> Either to <hi>diſcourage</hi> the godly, or to <hi>bring into Authority</hi> any Malignant or ill-affected perſons, Or re-inveſting unworthy, and ſcandalous <hi>Miniſters.</hi>
+            </p>
+            <p>All which I have made bold in the fear of God, and power of his Grace, to ſpread moſt humbly before your Highneſs. That ſeeing the <hi>Promiſes</hi> of good things do already ſhine both in <hi>Church</hi> and <hi>State</hi> by your Highneſs his Protection and Government; Why ſhould the poor <hi>Inhabitanes</hi> of <hi>Wales</hi> despaire to make known their <hi>grievances,</hi> and Repreſent their ſad spirituall Condition before your <hi>Chriſtian</hi>-Eys, who (perhaps) have not had as yet a full diſcovery thereof? Who knowes, But that the <hi>Lord</hi> (who had <hi>hid theſe things from</hi> ſuch as were formerly in <hi>Authority) Hath</hi> reſerved the ſame for your <hi>Highneſſe Care,</hi> That the People may have Cauſe to praiſe and bleſſe <hi>God</hi> for you, whom he hath deſigned to <hi>Performe</hi> ſo <hi>glorious</hi> a <hi>Worke,</hi> as to <hi>Reſtore</hi> the Comfort of the <hi>Bleſſed Ordinances of Chriſts Goſpell unto their Nation againe.</hi>
+            </p>
+            <p>You are now become not onely <hi>Petra,</hi> a Foundation, whereon the People muſt reſt:
+<q>In vos domus omnis Inclinata Recumbit.</q>
+but alſo <hi>Paſtor Iſraelis,</hi> a Sheepheard to provide Paſtures for the People, The <hi>Lord</hi> in his Mercy direct you to Act what is con<g ref="char:EOLhyphen"/>ducible to his Glory, the peace of your owne Conſcience, and the good and well-fare of the People under your Protection, prayeth,</p>
+            <closer>
+               <signed>
+                  <hi>Your Highneſſe moſt humbly in all Chriſtian Services to be Commanded,</hi> Alex. Griffith.</signed>
+               <dateline>
+                  <date>March. <hi>23. 1653.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:94444:3"/>
+            <head>The <hi>PETITION</hi> of the Six <hi>Counties</hi> of <hi>South-wales,</hi> and the County of <hi>Monmouth,</hi> with a <hi>Narrative</hi> of the <hi>Parliament Reſolves</hi> thereupon; And the <hi>Proceedings</hi> before the <hi>Committee</hi> for <hi>Plundred Miniſters,</hi> to whom it was <hi>Referred</hi> by the <hi>Honourable Houſe;</hi> faithfully tranſcribed, and herein expreſſed according to the ſeverall <hi>Originall Orders.</hi>
+            </head>
+            <p>The tenth of <hi>March, 1651.</hi> Col. <hi>Edward Freeman</hi> At<g ref="char:EOLhyphen"/>turney Generall for the <hi>Common-wealth</hi> in <hi>South-wales</hi> (as <hi>Councell,</hi> and at the requeſt of the <hi>Petiti<g ref="char:EOLhyphen"/>oners</hi>) attended with ſeverall of the <hi>Petitioners</hi> did preſent a <hi>Petition</hi> to the then Supreame Authority, The <hi>Parliament</hi> of the Common-wealth of <hi>England,</hi> Inti<g ref="char:EOLhyphen"/>tuled The humble <hi>Petition</hi> of ſeverall of the Inhabitants of the Six Counties of <hi>South-wales,</hi> and County of <hi>Monmouth,</hi> well-affected to the <hi>Parliament,</hi> and pre<g ref="char:EOLhyphen"/>ſent <hi>Government,</hi> on the behalfe of themſelves and the reſt of the <hi>Inhabitants</hi> there, in theſe words following, (<hi>viz.</hi>)</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>SHEVVETH<g ref="char:punc">▪</g>
+                     </salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hat your <hi>Petitioners</hi> cannot but with all humble<g ref="char:EOLhyphen"/>neſſe acknowledge your Honours conſtant care,<note place="margin">1. The Petition divided into 9. Heads.</note> in providing for the ſupply of their ſpirituall ne<g ref="char:EOLhyphen"/>ceſſities, and the advancement of the <hi>Gospell</hi> of <hi>Chriſt,</hi> and particularly in paſſing the <hi>Act</hi> of the 22 <hi>of</hi> February 1649. <hi>Intituled an Act for the Propagation of the
+<pb n="2" facs="tcp:94444:4"/>
+Goſpell in</hi> Wales, ſo much really intended by your <hi>Honours,</hi> which filled the hearts of your <hi>Petitioners,</hi> and all the Inhabitants of <hi>Wales</hi> with joy and gladneſſe in hopes to find the fruits thereof accordingly: Nevertheleſſe your <hi>Petitioners</hi> humbly ſhew,</p>
+                  <p>That ſince the paſſing of the ſaid <hi>Act,</hi> all or moſt of the <hi>Miniſters</hi>  
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> of <hi>South wales</hi> and <hi>County of</hi> Monmouth, have beene and ſtand <hi>Ejected</hi> from their Benefices, and but few or none of the ſaid reſpective <hi>Counties</hi> have beene ſupplied with any competent  <milestone type="tcpmilestone" unit="unspecified" n="2"/> number of Godly, able <hi>Teachers,</hi> to officiate in the Roomes of the outed <hi>Miniſters.</hi>
+                  </p>
+                  <p>Neither hath there beene provided any conventient number  <milestone type="tcpmilestone" unit="unspecified" n="3"/> of godly Schooles for the education of Children, and advance<g ref="char:EOLhyphen"/>ment of learning as was intended by your <hi>Honours,</hi> and the true purport of the ſaid <hi>Act,</hi> as they humbly conceive there being not above foure or five Itinerary Teachers in ſome of the ſaid Counties, <hi>appointed and approved of to teach the Goſpell.</hi> Whereas ſome of the ſaid Counties do conſiſt of above ſix ſcore Pariſhes, and the leaſt of fifty or threeſcore, many whereof have at leaſt two thouſand Soules.</p>
+                  <p> 
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+                     <hi>That</hi> ſome perſons deriving <hi>Authority</hi> from the ſaid <hi>Act,</hi> have for theſe two yeares laſt paſt received and diſpoſed of all the profits of the <hi>Tythes</hi> of Church-livings, and all other Benefices and Impropriations ſequeſtred, within the ſaid ſix <hi>Counties</hi> of <hi>South-wales</hi> and <hi>County</hi> of <hi>Monmouth,</hi> which are annually worth twenty thouſand pound or thereabouts; Out of which little hath  <milestone type="tcpmilestone" unit="unspecified" n="5"/> beene converted towards the <hi>Propagation</hi> of the <hi>Goſpell,</hi> or ac<g ref="char:EOLhyphen"/>compted for to the <hi>State.</hi>
+                  </p>
+                  <p> 
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+                     <hi>That</hi> for want of the due <hi>Execution</hi> of the ſaid <hi>Act,</hi> your <hi>Pe<g ref="char:EOLhyphen"/>titioners</hi> together with the ſaid Inhabitants indure a <hi>Famine</hi> of the <hi>Word</hi> of <hi>God; Children</hi> are not bred up in the <hi>Inſtruction</hi> and  <milestone type="tcpmilestone" unit="unspecified" n="7"/> Information of the <hi>Lord;</hi> The vaſt revenues of the outed <hi>Mi<g ref="char:EOLhyphen"/>niſters</hi> are ſet out at extraordinary undervalues. The Churches are in moſt places ſhut up, and the Fabrick thereof ready to fall  <milestone type="tcpmilestone" unit="unspecified" n="8"/> to the ground for want of Repaire. Neither can the Inhabi<g ref="char:EOLhyphen"/>tants take notice of your <hi>Honours Acts, Edicts</hi> and <hi>Proclamations</hi> (wherein the publique Welfare, the Liberty and Safety of their  <milestone type="tcpmilestone" unit="unspecified" n="9"/> perſons, and eſtates are concerned) for want of a fitting num<g ref="char:EOLhyphen"/>ber of <hi>Teachers</hi> in each County to publiſh the ſame.</p>
+                  <p>
+                     <pb facs="tcp:94444:4"/>Your <hi>Petitioners</hi> therefore out of their duty to <hi>God,</hi> the pre<g ref="char:EOLhyphen"/>ſervation of the Soules of the Inhabitants of their Countrey, the <hi>Common-wealths</hi> intereſt, and the earneſt deſire they have that your <hi>Honours</hi> moſt pious intentions expreſſed in the ſaid <hi>Act,</hi> may be accordingly obſerved; Doe hold themſelves bound in conſcience, out of Chriſtian and Soule-ſaving neceſſity, to pre<g ref="char:EOLhyphen"/>ſent the premiſes to your <hi>Honours</hi> conſideration. Earneſtly be<g ref="char:EOLhyphen"/>ſeeching your <hi>Honours</hi> in purſuance of your wonted zeale, and unfeigned Affection to <hi>Gods</hi> Glory, and the Increaſe of true <hi>Religion, Learning</hi> and <hi>Piety,</hi> to take ſuch a courſe for the future ſupply of their reſpective <hi>Counties,</hi> with ſuch convenient number of <hi>Godly able Teachers,</hi> and for <hi>Proviſions</hi> of <hi>Schooles</hi> and <hi>Nur<g ref="char:EOLhyphen"/>ſeries</hi> of <hi>Learning</hi> and <hi>Religion</hi> there; As alſo to <hi>call</hi> to <hi>account</hi> ſuch perſons as have received the profits of the ſaid <hi>Tithes, Church-livings</hi> and <hi>Prebends,</hi> and the <hi>Sequeſtred Impropriations</hi> as to your <hi>Honours</hi> grave wiſdom ſhall ſeeme meete.</p>
+                  <closer>And your <hi>Petitioners</hi> ſhall as in duty bound moſt humbly pray, <hi>&amp;c.</hi>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <label>2. The pre<g ref="char:EOLhyphen"/>ſenting thereof to the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> by Col. <hi>Freeman,</hi> and his Speech.</label> At the preſenting of the <hi>Petition,</hi> Col. <hi>Freeman</hi> being come to the <hi>Bar,</hi> did deliver at the requeſt of the <hi>Petitioners,</hi> the true ſenſe and meaning of the <hi>Petition</hi> and <hi>Petitioners,</hi> and the ſum of their deſires, for a more cleer demonſtration of their reall inten<g ref="char:EOLhyphen"/>tions therein, in theſe words, <hi>(viz.)</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Mr. SPEAKER,</salute>
+                  </opener>
+                  <p>IT was the deſire of many well-affected <hi>Gentry,</hi> and other <hi>In<g ref="char:EOLhyphen"/>habitants</hi> of <hi>South-wales,</hi> That I ſhould preſent to your Grave conſideration this <hi>Petition,</hi> and withall humbly to beg you will be pleaſed to believe they deſire not to bring in any <hi>ſcandalous ejected Miniſters</hi> (as ſome out of prejudice to the <hi>Petitioners</hi> do ſuggeſt) but ſuch as this Honorable <hi>Houſe</hi> ſhall approve of, and onely ſuch ſhall be moſt gratefully enter<g ref="char:EOLhyphen"/>tained by them: A <hi>Soule-ſaving neceſſity</hi> hath conſtrained them to this humble addreſſe, who for above two yeares laſt paſt have lived in darkneſſe, the light of the <hi>Goſpell</hi> being almoſt extinguiſh<g ref="char:EOLhyphen"/>ed, ſhining onely in ſome few corners of the Country, and in<g ref="char:EOLhyphen"/>groſſed into particular diſtinct <hi>Congregations,</hi> which are not a<g ref="char:EOLhyphen"/>bove foure or five in moſt <hi>Counties</hi> in <hi>Southwales,</hi> &amp; how foure or
+<pb facs="tcp:94444:5"/>
+five <hi>Itineraryes</hi> can ſupply a whole County, (moſt of the Coun<g ref="char:EOLhyphen"/>ties conſiſting of eighty, or a hundred Pariſhes) is humbly left to your <hi>Honours</hi> grave conſideration. The Inhabitants of <hi>South<g ref="char:EOLhyphen"/>wales</hi> are not onely deſtitute of a convenient number of <hi>Mini<g ref="char:EOLhyphen"/>ſters,</hi> but alſo of able <hi>Schoole-maſters,</hi> to the decay of <hi>Religion,</hi> and <hi>Learning.</hi> And nevertheleſſe the vaſt Revenue of the outed <hi>Clergy</hi> and all Sequeſtred <hi>Tythes, Impropriations, Gleabs<g ref="char:punc">▪</g>
+                     </hi> and other <hi>Eccleſiaſticall Livings</hi> (amounting to a great value) is received by perſons deriving Authority from the Act of the 22 of <hi>Febru.</hi> 1649 which was really intended by this Honourable <hi>Houſe,</hi> for the true propagation of the <hi>Gospell,</hi> who do let and ſet out the ſame to <hi>Friends, Creatures,</hi> and <hi>Alliance</hi> of their owne at extra<g ref="char:EOLhyphen"/>ordinary undervalues, to the prejudice of the <hi>State,</hi> and the gaine of private perſons. (Mr. <hi>Speaker</hi>) This innocent <hi>Petition</hi> hath no deſigne in it againſt the <hi>Common wealth,</hi> or any particular perſons; All that the <hi>Petitioners</hi> crave from this <hi>Honourable houſe,</hi> is a convenient number of able godly Teachers, and Schoole-Maſters, ſuch as you ſhall approve of, and an <hi>account</hi> for the pro<g ref="char:EOLhyphen"/>fits and <hi>Revenues</hi> of the <hi>Churches</hi> received for theſe two laſt yeares. As we ayme herein, at the <hi>Glory of God,</hi> and the publick good, ſo let <hi>God bleſſe us,</hi> and give a <hi>gracious iſſue to our humble deſires.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>The <hi>Petitioners</hi> being with-drawne, the ſaid <hi>Petition</hi> was read, and taken into conſideration, and thereupon the <hi>Parliament</hi> paſſed the enſuing Reſolves, <hi>viz.</hi>
+            </p>
+            <note place="margin">3. The Reſo<g ref="char:EOLhyphen"/>lution of the Parliament.</note>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>The 10 of <hi>March</hi> 1651.</date>
+                     </dateline>
+                  </opener>
+                  <list>
+                     <item>1. Reſolved <hi>by the Parliament, that it be referred to the Com<g ref="char:EOLhyphen"/>mittee for plundred Miniſters to examine this buſineſſe, and to ſtate matters of fact, and Report their opinions therein to the Parliament, with power for the ſame Committee to ſend for Perſons, Papers, and Witneſſes.</hi>
+                     </item>
+                     <item>2. Reſolved, <hi>That the ſame Committee have power to examine upon Oath, and to authorize ſuch Commiſſioners in the Country as they ſhall thinke fit to examine witneſſes upon Oath, touching any the matters contained in the</hi> Petition, <hi>and to returne thoſe examinations to the ſaid Committee.</hi>
+                     </item>
+                  </list>
+               </body>
+            </floatingText>
+            <pb n="5" facs="tcp:94444:5"/>
+            <p>
+               <note place="margin">4. The tran<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mitting of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Petition, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Reſolves to th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Committee fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> plundered M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>niſters.</note> And the ſame day the ſaid <hi>Petition</hi> and <hi>Reſolves</hi> were tranſ<g ref="char:EOLhyphen"/>mitted to the <hi>Honorable Committee</hi> for plundred <hi>Ministers,</hi>to whom the ſame was referred. And it was then <hi>Ordered<g ref="char:punc">▪</g>
+               </hi> That the ſame ſhould be taken into <hi>conſideration</hi> on the 16 of <hi>March</hi> fol<g ref="char:EOLhyphen"/>lowing, on which day ſeverall of the <hi>Petitioners</hi> with their <hi>Coun<g ref="char:EOLhyphen"/>cellors</hi> and <hi>Solliciters</hi> did attend the ſaid <hi>Committee</hi> with Com<g ref="char:EOLhyphen"/>miſſioners Names,<note place="margin">5 The Petiti<g ref="char:EOLunhyphen"/>oners with Councell, and Solliciters at<g ref="char:EOLhyphen"/>tend the Com<g ref="char:EOLunhyphen"/>mittee, 16 <hi>Martii.</hi>
+               </note> which they offered and prayed a Commiſ<g ref="char:EOLhyphen"/>ſion, directed to thoſe Gentlemen, or ſuch other perſons as the <hi>Honorable Committee</hi> ſhould thinke fit, to examine the matters contained in the ſaid <hi>Petition</hi> in the Countrey, where the wit<g ref="char:EOLhyphen"/>neſſes reſided, and matters of fact did riſe, according to the ſaid <hi>Reſolves</hi> of <hi>Parliament.</hi>
+            </p>
+            <p>
+               <note place="margin">6. Major Gen <hi>Harriſon</hi> ex<g ref="char:EOLhyphen"/>cepts againſt the generality of the Petition, requiring a particular charge, and the Sollicitors Anſwer.</note>At which time ſome of the Committee, eſpecially Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Harriſon,</hi> one of the Commiſſioners for <hi>Propagation</hi> in <hi>Wales,</hi> did inſiſt that the <hi>Petition</hi> was to generall, and deman<g ref="char:EOLhyphen"/>ded a particular charge; Unto which the <hi>Petitioners Sollicitors</hi> gave anſwer, that they were onely Sollicitors for the <hi>Petitioners,</hi> and had no more yet in charge for their Clients (the Petition<g ref="char:EOLhyphen"/>ers) then the preſervation of the <hi>Petition,</hi> and doubted not but to exhibite particulars if required; and the Petitioners have con<g ref="char:EOLhyphen"/>venient time for that purpoſe: yet nevertheleſſe, conceived that the <hi>Petitioners</hi> by the aforeſaid <hi>Reſolves</hi> of Parliament, were not directed to exhibite any new charge, or particulars other then the <hi>Petition</hi> it ſelfe, which was all that was referred to the con<g ref="char:EOLhyphen"/>ſideration of that <hi>Honourable Committee,</hi> and all that the <hi>Peti<g ref="char:EOLhyphen"/>tioners</hi> were to prove and make good, which they were ready to doe according to theſe <hi>Reſolves,</hi> which gave that <hi>Committee</hi> no power, or direction (as they humbly conceived) to demand or receive any new charge or particulars.</p>
+            <p>
+               <note place="margin">7. The Peti<g ref="char:EOLhyphen"/>tioners are denied a Commiſſion. A Letter to be firſt ſent to the Commiſſion<g ref="char:EOLhyphen"/>ers for propa<g ref="char:EOLhyphen"/>gation, to ſend an account by the 18. of <hi>May,</hi> 1652.</note>But the <hi>Petitioners</hi> could not then obtaine a <hi>Commiſſion</hi> to prove their <hi>Petition;</hi> It being then thought fit, and ordered that firſt before any Commiſſion iſſued, a Letter ſhould be written by Major Generall <hi>Harriſon,</hi> Col. <hi>Sydney,</hi> and Mr. <hi>Henry Her<g ref="char:EOLhyphen"/>bert</hi> Members of <hi>Parliament,</hi> the <hi>Commiſſioners</hi> for <hi>Propagation of the Goſpel in Southwales</hi> and County of <hi>Monmouth,</hi> together with a <hi>Copy</hi> of the ſaid <hi>Petition,</hi> deſiring them by the 18. of <hi>May,</hi> 1652 (being two moneths time) <hi>to give a particular ac<g ref="char:EOLhyphen"/>compt to the ſaid Committee to the ſaid Petition and matters there<g ref="char:EOLhyphen"/>in
+<pb n="6" facs="tcp:94444:6"/>
+in contained.</hi> Whether the ſaid <hi>Letter</hi> was ſent or no, is beſt known to thoſe worthy Gentlemen, to whom the care thereof was <hi>referred.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> The Petition <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the Com<g ref="char:EOLhyphen"/>miſſioners An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>wer, read <hi>May</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. 1652.</note> However the Petitioners with their Councellors and Solici<g ref="char:EOLhyphen"/>tors did attend the ſaid <hi>Honorable Committee</hi> on the 18 of <hi>May:</hi> At which time the <hi>Petition,</hi> and alſo a <hi>generall Anſwer</hi> was read, purporting the Anſwer of the <hi>Commiſſioners</hi> for the <hi>propagation</hi> of the <hi>Gospel,</hi> &amp;c.</p>
+            <p>
+               <note place="margin">9. The Petitio<g ref="char:EOLhyphen"/>ners Councels, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xcept againſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Commiſſi<g ref="char:EOLhyphen"/>oners Anſwer.</note>Unto which the <hi>Petitioners Councell</hi> replyed, That the ſame did altogether conſiſt of <hi>Generalls;</hi> And in regard it was im<g ref="char:EOLhyphen"/>poſſible for them (being ſtrangers to the matters of fact) nor yet for their Clients the <hi>Petitioners</hi> to offer any thing there at the Bar by way of <hi>Reply,</hi>
+               <note place="margin">10. They pray for a Copy of the Commiſſi<g ref="char:EOLhyphen"/>oners Anſwer, which is deny<g ref="char:EOLhyphen"/>ed.</note> or <hi>Exceptions</hi> to the ſaid Anſwer be<g ref="char:EOLhyphen"/>fore they had a Copy thereof, and time to conſider of the ſame, they prayed to have a Copy of the ſaid Anſwer for that pur<g ref="char:EOLhyphen"/>poſe, which they could not obtaine; but the Petitioners were then <hi>Ordered</hi> by Friday the 21. of <hi>May</hi> (being two dayes after) <hi>to exhibit ſuch particulars contained in their Petition, upon which they would inſiſt,<note place="margin">11. The Com<g ref="char:EOLhyphen"/>mittees Order of <hi>May</hi> 18. 1652. which the Peti<g ref="char:EOLhyphen"/>tioners could not obtaine, or a Copy there<g ref="char:EOLhyphen"/>of, untill the day before they were to anſwer it.</note> and deſire to examine witneſſes.</hi> The Petitioners Agents attended the Clerke of that Committee for the ſaid Order, but could not obtaine the ſame, or a Copy thereof, un<g ref="char:EOLhyphen"/>till Wedneſday at ſix a clock in the <hi>Evening,</hi> ſo that the <hi>Petitio<g ref="char:EOLhyphen"/>ners</hi> had but one dayes time to anſwer the expectation of the Committee in relation to the ſaid <hi>Order:</hi> who (finding the ſame to be <hi>ambiguouſly</hi> and <hi>uncertainly</hi> drawn, bearing <hi>ſeverall interpretations</hi>) did demand of Maſter <hi>Phelpes,</hi> the Clerk atten<g ref="char:EOLhyphen"/>ding the ſaid Committee, what was meant by the <hi>Particulars</hi> mentioned in the ſaid Order?<note place="margin">12. The Order of <hi>May</hi> 18. ambiguouſly drawn.</note> who either would not, or could not ſatisfie them therein, (though preſent at the making of the Order, whilſt the Petitioners were withdrawne:) whereupon they Addreſſed themſelves to <hi>Members of Parliament,</hi> that ſate at the Committee, when the ſaid <hi>Order</hi> was made, and tooke <hi>adviſe</hi> of <hi>Councell;</hi> And upon the whole they did apprehend the meaning of the <hi>Order</hi> to be onely thus; <hi>That the</hi> Petitioners <hi>ſhould declare what part, or particulars of their</hi> Petition <hi>they would inſiſt to prove</hi> (it containing many particulars;) not con<g ref="char:EOLhyphen"/>ceiving that the <hi>Committee</hi> ſhould require a particular charge againſt the proceedings and tranſactions of the <hi>Commiſſioners</hi>
+               <pb n="7" facs="tcp:94444:6"/>
+for <hi>Propagation</hi> in the ſeaven Counties for above two yeares, and to have the ſame drawn up and exhibited in two dayes, which was a worke of impoſſibility, much leſſe to be done in one day; which if they meant, it behoved their Clerk to have expreſſed the ſame in the Order by cleere and intelligible words.</p>
+            <p>The <hi>Petitioners</hi> in obedience to the ſaid Order in full Anſwer to what was required, thereby ſo far as the words,<note place="margin">13. <hi>May</hi> 21. The Petitioners of<g ref="char:EOLhyphen"/>fer to prove the truth of their Petition, in e<g ref="char:EOLhyphen"/>very particular, and deſire a Commiſſion for that pur<g ref="char:EOLhyphen"/>poſe, And pray that this their tender may be Recorded.</note> and the very Letter of the Order did purport, did appeare on the ſaid 21 of <hi>May,</hi> and by their Councell did affirme, that they did inſiſt on all the particulars contained in their <hi>Petition:</hi> And would prove the truth of the <hi>Petition</hi> in every particular, And prayed againe a <hi>Commiſſion</hi> into the Countrey, according to the <hi>Reſolves</hi> of <hi>Parliament</hi> to prove the ſame; Whereupon Major Generall <hi>Harriſon</hi> did aske the <hi>Petitioners Councell,</hi> if they had any thing elſe to offer to the <hi>Committee</hi> at that time, unto which anſwer was given by the <hi>Petitioners</hi> Councell, that they had delivered the Anſwer of the <hi>Petitioners,</hi> in obedience to the ſaid Order, and prayed that the ſame might be recorded.</p>
+            <p>And prayed alſo that they would Order their Clerk to deli<g ref="char:EOLhyphen"/>ver the <hi>Petitioners</hi> a Copy of the <hi>Commiſſioners</hi> Anſwer to the <hi>Petition,</hi>
+               <note place="margin">14. They move againe for a Copy of the Commiſſion<g ref="char:EOLhyphen"/>ers Anſwer, which was not granted.</note> whereby the <hi>Petitioners</hi> might be enabled either to <hi>ex<g ref="char:EOLhyphen"/>cept</hi> or <hi>reply</hi> unto the ſame, and proceed to <hi>iſſue</hi> according to the uſuall <hi>courſe, practice</hi> and <hi>proceedings</hi> in all <hi>Courts</hi> of <hi>Juſtice,</hi> and <hi>Committees,</hi> And even of that Honorable <hi>Committee</hi> in all other cauſes; The <hi>Petitioners</hi> conceiving that the <hi>Commiſſioners</hi> did not ſend up their Anſwer with an intention to conceale the ſame from the knowledge of the <hi>Petitioners,</hi> or were unwilling that the ſame ſhould be expoſed to <hi>publick view.</hi>
+               <note place="margin">
+                  <hi>May</hi> 21. 1652. 15. An Order for a Sub-com<g ref="char:EOLhyphen"/>mittee to report matter of fact upon the Peti<g ref="char:EOLhyphen"/>tion, before a Copy of the Commiſſion<g ref="char:EOLhyphen"/>ers Anſwer granted, iſſue joyned, or wit<g ref="char:EOLhyphen"/>neſſes examin<g ref="char:EOLhyphen"/>ed.</note>
+            </p>
+            <p>Nevertheleſſe the <hi>Petitioners</hi> could not obtaine an Order for a Copy thereof (being commanded to withdraw, before the Committee did explaine the ſaid Order, or give any further time for the <hi>Petitioners</hi> to ſatisfy the expectation of the <hi>Com<g ref="char:EOLunhyphen"/>mittee</hi> in reference to the ſame, and before the <hi>Petitioners</hi> or their <hi>Councell</hi> were called in, or were againe heard) who had ſomewhat more to offer to the conſideration of that <hi>Com<g ref="char:EOLunhyphen"/>mittee.</hi>
+            </p>
+            <p>It was Ordered that Col. <hi>Bennet,</hi> Mr. <hi>Robinſon,</hi> Col. <hi>Sydney,</hi> Mr. <hi>Strickland,</hi> Alderman <hi>Allen,</hi> Lieut. Gen. <hi>Fleetwood,</hi> Mr. <hi>Smith</hi>
+               <pb n="8" facs="tcp:94444:7"/>
+and Col. <hi>Fenwick,</hi> or any three or more of them doe examine the matter of fact, as it then lay before the ſaid Committee up<g ref="char:EOLhyphen"/>on the ſaid <hi>Petition</hi> of the ſix Counties of <hi>South-wales,</hi> and County of <hi>Monmouth,</hi> to the ſaid Committee referred by the <hi>Parliament,</hi> and report the ſame to the ſaid Committee, in order to a <hi>Report</hi> of the whole caſe to the <hi>Parliament.</hi>
+            </p>
+            <p>
+               <note place="margin">16. The Petiti<g ref="char:EOLhyphen"/>oners prepare particulars con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eyned in their Petition, in the nature of a charge.</note>The <hi>Petitioners</hi> afterwards underſtanding the ſenſe of the Committee in relation to the ſaid Order of the 18 of <hi>May,</hi> and that by particulars contained in the <hi>Petition,</hi> they did meane a particular charge: The <hi>Petitioners</hi> did with all convenient ſpeed prepare particulars contained in the generall heads of the <hi>Pe<g ref="char:EOLhyphen"/>tition</hi> in the nature of a Charge, and did inſtance ſeverall miſ<g ref="char:EOLhyphen"/>carriages acted and done by colour of the ſaid <hi>Act</hi> for <hi>Propaga<g ref="char:EOLhyphen"/>tion</hi> of the <hi>Goſpel,</hi> as by the particulars annexed will more fully appeare.</p>
+            <p>
+               <note place="margin">17. Which par<g ref="char:EOLhyphen"/>ticulars are an<g ref="char:EOLhyphen"/>nexed to a Pe<g ref="char:EOLhyphen"/>tition preſented <hi>July</hi> 16. 1652.</note> And the <hi>Petitioners</hi> did the 16. of <hi>July</hi> 1652. annex the ſame to a <hi>Petition,</hi> directed to the ſaid Honourable Committee, where<g ref="char:EOLhyphen"/>in they did ſignify that by the ſaid Order of the 18. of <hi>May,</hi> they did not then underſtand the meaning of the <hi>Committee,</hi> not conceiving their Honours did require thereby a particular charge, eſpecially to be exhibited within two dayes (which was a worke of impoſſibility) being never before ordered ſo to do, nor required by the <hi>Reſolves</hi> of <hi>Parliament</hi> to exhibite or prove any other thing then the <hi>Petition</hi> it ſelfe, and the matters there<g ref="char:EOLhyphen"/>in contained; And having prepared the particulars annexed they prayed them to accept of the ſame (though for the reaſons aforeſaid they failed in ſtrictneſs of time given them by the ſaid <hi>Order.</hi>)</p>
+            <p>
+               <note place="margin">18. The Peti<g ref="char:EOLhyphen"/>tioners are a<g ref="char:EOLhyphen"/>gaine denyed a Commiſſion according to the Reſolves of Parliament.</note>And likewiſe prayed that the Honourable Committee would grant a Commiſſion to the Countries, according to the ſaid <hi>Re<g ref="char:EOLhyphen"/>ſolves</hi> to prove the ſame, which <hi>Petition</hi> and <hi>Particulars</hi> being read for the <hi>Reaſons</hi> in the ſaid <hi>Petition</hi> contained, and upon the reading and ſerious debate, and conſideration had of the former <hi>Orders</hi> and <hi>Proceedings</hi> of the Committee in that Cauſe,<note place="margin">19 Ordered by the Committee, that the parti<g ref="char:EOLhyphen"/>culars ſhould be reported to the Parliament.</note>
+            </p>
+            <p>It was Ordered, that the ſaid particulars be admitted, and ad<g ref="char:EOLhyphen"/>ded to the Report of the matters to be Reported to the <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi> At which time the <hi>Petitioners, Sollicitors</hi> and <hi>Agents,</hi>
+               <pb n="9" facs="tcp:94444:7"/>
+informed the <hi>Committee,</hi>
+               <note place="margin">20. A Copy of the Commiſſi<g ref="char:EOLhyphen"/>oners Anſwer, denyed to the Petitioners fro<g ref="char:cmbAbbrStroke">̄</g> the 18 of <hi>May,</hi> to the 16. of <hi>July</hi> 1652.</note> that their <hi>Clerk</hi> denyed them a Copy of the <hi>Commiſſioners</hi> Anſwer, who from the 18 of <hi>May</hi> to that day, being the 16 of <hi>July</hi> 1652. could not obtaine a Copy thereof (although they uſed all poſſible meanes, and endea<g ref="char:EOLhyphen"/>vours therein) Whereupon</p>
+            <p>It was Ordered that the <hi>Petitioners</hi> ſhould have Copies of the Anſwer of the <hi>Commiſſioners</hi> for <hi>Propagation</hi> of the <hi>Gospell</hi> in <hi>Wales,</hi>
+               <note place="margin">21. Ordered, that the Petiti<g ref="char:EOLhyphen"/>oners ſhould have Copies of the Commiſſio<g ref="char:EOLhyphen"/>ners Anſwer.</note> and of all other Papers and Proceedings remaining with the ſaid <hi>Committee.</hi>
+            </p>
+            <p>And accordingly the <hi>Petitioners</hi> having Copies of the Com<g ref="char:EOLhyphen"/>miſſioners Anſwer, did prepare a <hi>Reply</hi> to the ſame (which was impoſſible for them ſooner to doe.) And (having annexed the ſaid <hi>Reply</hi> to a <hi>Petition</hi>) did the 20 of <hi>Auguſt</hi> 1652.<note place="margin">22. Upon ob<g ref="char:EOLhyphen"/>taining the Anſwer, a Reply is pre<g ref="char:EOLhyphen"/>pared,</note> Preſent the ſame to the ſaid Honourable <hi>Committee,</hi> praying them to accept of the ſaid <hi>Reply,</hi> and likewiſe the fourth time prayed a <hi>Commiſſion,</hi> to prove the <hi>Petition,</hi> as alſo their Particulars and <hi>Reply.</hi>
+               <note place="margin">23. And an<g ref="char:EOLhyphen"/>nexed to a Pe<g ref="char:EOLhyphen"/>tition preſented to the Committ. <hi>Aug</hi> 23. 1652.</note> And did likewiſe informe the <hi>Committee</hi> that on peruſall of a <hi>Report</hi> drawne up by the <hi>Sub<g ref="char:EOLhyphen"/>committee,</hi> they did finde therein mentioned the ſaid Booke of Accompt, contayning ſixty Sheets of Paper, and conceiving it of dangerous conſequence,<note place="margin">24. The Petiti<g ref="char:EOLhyphen"/>oners pray for a Commiſſion the fourth time.</note> and very prejudiciall, as well to the <hi>Petitioners</hi> as to the <hi>State,</hi> in caſe the ſaid Booke of Ac<g ref="char:EOLhyphen"/>compt ſhould be <hi>Reported,</hi> before it was lodged with that <hi>Com<g ref="char:EOLhyphen"/>mittee,</hi>
+               <note place="margin">25. And that the Commiſſi<g ref="char:EOLhyphen"/>oners Booke of account might be lodged with the Committee &amp; a copy there<g ref="char:EOLhyphen"/>of granted the Petitioners.</note> and the <hi>Petitioners</hi> have a Copy thereof, and liberty to ſurcharge the ſame, without which the <hi>State</hi> might be <hi>defrauded many thouſand pounds</hi> by an undue Accompt, they prayed that the ſaid <hi>Booke of Accompt</hi> might be brought in, and lodged with the Committee; And the Petitioners <hi>might have a Copy there<g ref="char:EOLhyphen"/>of,</hi> and liberty to ſurcharge the ſame; And that in the meane time the ſame ſhould not be reported to the <hi>Parliament</hi> (their Clerke having declared that the ſaid Booke was onely pro<g ref="char:EOLhyphen"/>duced by Major Generall <hi>Harriſon,</hi>
+               <note place="margin">26. The Booke of accompt produced, and afterwards ta<g ref="char:EOLhyphen"/>ken away. <hi>Aug.</hi> 20. 1652.</note> before the <hi>Sub-committee,</hi> when they were drawing up the <hi>Report,</hi> and then by him (or others attending him) taken away and never read, examined or lodged with the Clerke of the ſaid <hi>Committee.</hi>
+            </p>
+            <p>Whereupon the 20 of <hi>August</hi> 1652.<note place="margin">27. The Sub-Committee Ordered to bring in the Booke of Ac<g ref="char:EOLhyphen"/>count the 27 of <hi>August.</hi> 1652. or ſhew cauſe why they would not.</note> It was Ordered that the <hi>Sub-committee</hi> appointed by Order of the 21 of <hi>May</hi> laſt, ſhould bring in to the ſaid Committee, the ſaid Booke of Ac<g ref="char:EOLhyphen"/>compt
+<pb n="10" facs="tcp:94444:8"/>
+of the Commiſſioners for Propagation of the <hi>Gospell in Wales,</hi> conteyning about threeſcore Sheets of paper in their Report mentioned; Or ſatisfy the Committee to the contrary on that day ſeven-night, being the time when the ſaid Honour<g ref="char:EOLhyphen"/>able Committee did appoint to take into conſideration the ſaid <hi>Petition</hi> and <hi>Reply.</hi>) And the care of bringing in the ſaid Accompt was referred to Col. <hi>Bennet.</hi> But the Clerke attending the ſaid Committee, did contrary to the expreſſe Declaration of the Committee, inſert in the ſaid Order, the third of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> to be the time for bringing in the ſaid Account; And for conſideration of the <hi>Petition</hi> and <hi>Reply:</hi> Which day being a Faſt day,<note place="margin">28. The Clarke contrary to the Committees Order inſerts the 3. of <hi>Sep.</hi> which was a Faſt-day.</note> ſet apart by the Honourable Members of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> for their Service and Worſhip of <hi>God,</hi> no Committee Sat.</p>
+            <p>The day following the Faſt, the Petitioners <hi>Councell</hi> and <hi>Sol<g ref="char:EOLhyphen"/>liciters</hi> did attend the Committee to know their pleaſures, if they would then take the <hi>Reply</hi> into conſideration,<note place="margin">29. As appears by M. <hi>Hancocks</hi> Affidavit</note> or appoint another time, informing them, that their Clerke had miſ<g ref="char:EOLhyphen"/>named the day in the Order, contrary to the <hi>Declaration</hi> and <hi>Order</hi> of the Committee,<note place="margin">30. The Clerk anſwering that the next day was inſerted in the paper of cauſes, being 5. of <hi>Sep</hi>
+               </note> and as by the <hi>Affidavit</hi> of Mr. <hi>Hancock,</hi> and the <hi>Petitioners Agent</hi> and <hi>Sollicitor</hi> may ap<g ref="char:EOLhyphen"/>peare.</p>
+            <p>But the Clerke did openly give Anſwer, that the ſame was put down in the Paper of cauſes for the ſecond day following the Faſt (being the 5. of <hi>Sep.</hi>)<note place="margin">31. The Petiti<g ref="char:EOLhyphen"/>oners Councell and Sollicitor, attending the 5. day. The Clark had not entred the ſame into the Paper of cauſes.</note>
+            </p>
+            <p>And thereupon the <hi>Petitioners</hi> Councell, and <hi>Sollicitors</hi> with the leave of the Committee did depart to their other occaſions, and did attend there the next day, according to the publick in<g ref="char:EOLhyphen"/>timation and information of the Clerk. But the Clerk not ha<g ref="char:EOLhyphen"/>ving entred the ſame in the paper of cauſes, it was not called on, nor taken into conſideration that day.</p>
+            <p>But on the 8 of <hi>September,</hi> in the abſence of the Petitioners,<note place="margin">32. But without the privity of the Pe<g ref="char:EOLhyphen"/>titioners Councell, or Sollicitors, it was Ordered the 8. of <hi>Sep.</hi> 1652.</note> their Coun<g ref="char:EOLhyphen"/>cell and Sollicitors; All perſons be<g ref="char:EOLhyphen"/>ing withdrawn,<note place="margin">1. All Orders ſince the 29 of <hi>June,</hi> to be diſcharged.</note> 
+               <hi>It was Ordered,</hi> that all Orders ſince the 29 of <hi>June,</hi> be diſ<g ref="char:EOLhyphen"/>charged,<note place="margin">2. The Report without mention of par<g ref="char:EOLhyphen"/>ticulars, or Reply.</note> and the ſaid Report as it was then drawne up and Ordered, ſhould be
+<pb n="11" facs="tcp:94444:8"/>
+reported to the <hi>Parliament;</hi>
+               <note place="margin">3. Without any examination of wit<g ref="char:EOLhyphen"/>neſſes.</note> In which report there was no mention made of the ſaid Particulars and Reply, herein after recited;<note place="margin">4. Without any Copy of the Booke of Account to be Reported to the Par<g ref="char:EOLhyphen"/>liament.</note> And the ſaid Report was like<g ref="char:EOLhyphen"/>wiſe made and drawn up before any one witneſſe was examined in the cauſe, and before any Copy had, or examination made of the ſaid Booke of Accompt,<note place="margin">5. No further proceedings before that Committee.</note> that was never brought in, or lodged with the Committee for that purpoſe. And it was then likewiſe Ordered and Declared by the Honourable perſons then ſitting as a <hi>Committee,</hi> that they would make no further proceeding in the ſaid Cauſe, untill the further pleaſure of the <hi>Parliament</hi> be declared, upon the ſaid Report to be made unto them.</p>
+            <p>At the drawing up of which Order, one <hi>Richard Creed</hi> ſer<g ref="char:EOLhyphen"/>vant to the ſaid Major Generall <hi>Harriſon,</hi>
+               <note place="margin">33. <hi>Rich. Creede</hi> (ſervant to) M. G. <hi>Harriſon</hi> dictating the Order to <hi>Lang<g ref="char:EOLhyphen"/>ly,</hi> (one of the Clarks) diſco<g ref="char:EOLhyphen"/>covered.</note> and an Agent againſt the ſaid <hi>Petitioners</hi> was dictating the words of the ſaid <hi>Order</hi> to Mr. <hi>Langley</hi> one of the Clerkes to the ſaid <hi>Committee;</hi> who was taken therein and diſcovered by Mr. <hi>Hancock,</hi> one of the <hi>Petitioners Agents,</hi> whereupon the ſaid <hi>Langley,</hi> for prevention of the diſcovery of this his undue carriage in this buſineſſe a<g ref="char:EOLhyphen"/>gainſt the <hi>Petitioners,</hi> wiſhed the ſaid <hi>Creed</hi> to be ſilent, when hee ſaw the ſaid <hi>Hancock,</hi>
+               <note place="margin">34. As appears by M. <hi>Hancocks</hi> Affidavit.</note> and informed <hi>Creed</hi> that <hi>Han<g ref="char:EOLhyphen"/>cocks</hi> was Agent for the Petitioners, as by the <hi>Affidavit</hi> of the ſaid Mr. <hi>Hancock,</hi> may more at large appeare.</p>
+            <p>And Major Generall <hi>Harriſon</hi> was as active,<note place="margin">35. Ma. Gen. <hi>Harriſon,</hi> act<g ref="char:EOLhyphen"/>ing as one of the Committee though a Com<g ref="char:EOLhyphen"/>miſſioner in the Act of Pro<g ref="char:EOLhyphen"/>pagation.</note> and ſedulous in this matter, that on moſt days appointed for the hearing ther<g ref="char:EOLhyphen"/>of, he did ſit and vote as one of the Grand Committee<g ref="char:punc">▪</g> And in a ſpeciall manner did likewiſe ſit with the <hi>Sub-committee</hi> at the drawing up of their Report, and was chiefe inſtrument therein, and ſubſcribed the ſame, though he was not appointed at all to be one of the <hi>Sub-committee</hi> by the Order of the 21. of <hi>May</hi> 1652. But was one of the <hi>Commiſſioners</hi> appointed in the <hi>Act</hi> for the <hi>Propagation</hi> of the <hi>Goſpell</hi> in <hi>Wales;</hi> And there<g ref="char:EOLhyphen"/>by equally intruſted, and concerned with the reſt of the <hi>Com<g ref="char:EOLhyphen"/>miſſioners</hi> therein named.</p>
+            <p>
+               <pb n="12" facs="tcp:94444:9"/>
+               <note place="margin">36. The Petiti<g ref="char:EOLhyphen"/>oners being ordered from further proſe<g ref="char:EOLhyphen"/>cution.</note>The <hi>Petitioners</hi> by the ſaid <hi>Order</hi> of the 8 of <hi>September,</hi> being wholy debarred of any further proceedings before the ſaid <hi>Committee,</hi> untill the further pleaſure of the <hi>Parliament</hi> ſhould be knowne therein, did patiently waite in expectation of what the <hi>Lord</hi> would bee pleaſed to direct them to doe therein.</p>
+            <p>
+               <note place="margin">37. And the Report ſup<g ref="char:EOLhyphen"/>preſſed from the 29. <hi>Jun.</hi> 1652. to the 25. <hi>May.</hi> 1653.</note> But ſo it fell out, that the ſaid <hi>Report</hi> was privately kept from the Cognizance of the <hi>Parliament,</hi> from the 29 of <hi>June</hi> 1652. untill the 25 of <hi>March</hi> 1653. (being 9 Moneths,) To what end, and upon what accompt the ſame was ſo long ſuppreſſed, is beſt knowne to Colonell <hi>Bennet,</hi> and others, who had the carriage thereof, and were intruſted by the ſaid <hi>Order</hi> of 29 <hi>Junii.</hi> 1652. to <hi>Report</hi> the ſame to the <hi>Parliament.</hi>
+            </p>
+            <p>
+               <note place="margin">38. The Petiti<g ref="char:EOLhyphen"/>oners, their Councell, Sol<g ref="char:EOLhyphen"/>licitors and A<g ref="char:EOLhyphen"/>gents are men<g ref="char:EOLhyphen"/>aced, troubled, and impriſon<g ref="char:EOLhyphen"/>ed as followeth</note>In the meane time, what ſtrange and unuſuall wayes have been uſed to ſuppreſſe the ſaid <hi>Petition</hi> it ſelfe, you will find here<g ref="char:EOLhyphen"/>in briefly declared.</p>
+            <p n="1">1. The <hi>Petitioners</hi> and their <hi>Agents</hi> were menaced, and threatned by the <hi>Itnerants,</hi> and <hi>Sequeſtrators</hi> to be <hi>Sequeſtred,</hi> and <hi>ruined,</hi> which was accordingly in part executed.</p>
+            <p n="2">2.<note place="margin">39. The Petiti<g ref="char:EOLhyphen"/>oners are put out of Com<g ref="char:EOLhyphen"/>miſſion.</note> Divers Gentlemen that bore publick Offices of truſt un<g ref="char:EOLhyphen"/>der the <hi>Parliament</hi> in thoſe parts, and of approved faithfull<g ref="char:EOLhyphen"/>neſſe unto them, were diſcountenanced and put out of their Places and Offices meerly for ſubſcribing the ſaid <hi>Petition,</hi> and owning the truth thereof.</p>
+            <p n="3">
+               <note place="margin">40 The Petiti<g ref="char:EOLhyphen"/>oners Sollici<g ref="char:EOLhyphen"/>tors, are tam<g ref="char:EOLhyphen"/>pered with by <hi>Creed,</hi> and Mr. <hi>Rogers.</hi>
+               </note>3. That one <hi>Richard Creed,</hi> ſervant to Major Generall <hi>Har<g ref="char:EOLhyphen"/>riſon,</hi> and Agent for the <hi>propagators,</hi> and one <hi>Hugh Rogers</hi> (for<g ref="char:EOLhyphen"/>merly a Cavalier in Armes againſt the <hi>Parliament,</hi> yet one of the <hi>Welſh Itinerants</hi>) having an evill purpoſe and deſigne to corrupt the ſaid <hi>John Gunter,</hi> the Petitioners Solliciter, and to draw him to violate and falſifie the great truſt repoſed in him, by the Petitioners, did partly by threats, and partly by faire pro<g ref="char:EOLhyphen"/>miſes and perſwaſions endeavour to diſingage him, from the further proſecution and ſollicitation of the ſaid <hi>Petition.</hi>
+            </p>
+            <p>
+               <note place="margin">41. Mr. <hi>Gunter</hi> denying their ſollicitation, &amp; tampering, is together with Col. <hi>Freeman,</hi> proſecuted.</note>But the ſaid <hi>John Gunter,</hi> abhorring with his Soule to condiſ<g ref="char:EOLhyphen"/>cend thereunto, and the ſaid <hi>Richard Creed,</hi> and <hi>Hugh Rogers,</hi> finding their endeavours therein fruitleſs.</p>
+            <p>The ſaid <hi>Richard Creed</hi> in <hi>Auguſt</hi> 1652. (being then a ſervant to Major Generall <hi>Harriſon</hi>) upon his own ſingle information
+<pb n="13" facs="tcp:94444:9"/>
+obtained a <hi>Warrant</hi> for the apprehending &amp; bringing before the (then) Councell, Col. <hi>Edward Freeman,</hi> the <hi>Petitioners</hi> Councell, and the ſaid <hi>John Gunter</hi> the <hi>Petitioners</hi> Sollicitour; In purſuance whereof the ſaid Col. <hi>Ed Freeman,</hi>
+               <note place="margin">42. Col. <hi>Free<g ref="char:EOLhyphen"/>man</hi> apprehen<g ref="char:EOLhyphen"/>ded, as he was going to Court in Preiſteigne Seſſions being States Atturney</note> whileſt he was diſcharging his duty in the great <hi>Seſſions</hi> held at <hi>Preſteigne,</hi> in the County of <hi>Radnor,</hi> as Attorney Generall of <hi>South wales,</hi> was moſt diſ<g ref="char:EOLhyphen"/>gracefully Arreſted by the Councells Meſſengers, as he was go<g ref="char:EOLhyphen"/>ing into the Court to plead for the <hi>State,</hi> and his own particu<g ref="char:EOLhyphen"/>lar Clients. And imediately brought up a Priſoner to the (then) Councell, where he continued above ſixteen weekes as a Priſo<g ref="char:EOLhyphen"/>ner, daily attending and petitioning for a charge, or diſcharge, (the <hi>Common-wealth</hi> and his own particular Clients in the meane time ſuffering great prejudice by his abſence.)</p>
+            <p>At laſt a falſe and ſcandalous charge was brought in againſt him by <hi>Richard Creede,</hi> in the Name of <hi>John Morgan,</hi>
+               <note place="margin">43. A charge produced by <hi>Creed,</hi> in <hi>John Morgans</hi> Name againſt Col. <hi>Freeman.</hi>
+               </note> one of the Sequeſtrators of the Church <hi>Revenues</hi> in <hi>South-wales,</hi> (being a man of a very meane Trade and Condition, before he was in<g ref="char:EOLhyphen"/>truſted with the managing of the Sequeſtred Eſtates.) And the ſaid <hi>Creede</hi> being demanded to prove the charge ſo by him ex<g ref="char:EOLhyphen"/>hibited, could not make good any one particular thereof;<note place="margin">44. And for want of proofe Col. <hi>Freeman</hi> is diſcharged.</note> where<g ref="char:EOLhyphen"/>upon Col. <hi>Freeman</hi> was honorably diſcharged from his Reſtraint, and Attendance, in reference to the ſaid charge.</p>
+            <p>Nevertheleſſe hee received no reparation to this day for all theſe Wrongs and Sufferings; (though really damnified by this falſe Accuſation of <hi>Creede,</hi>
+               <note place="margin">45. The Col. is not yet re<g ref="char:EOLhyphen"/>paired though damnified 1000 <abbr>l.</abbr>
+               </note> and his Complices) above 1000 <abbr>l.</abbr>
+            </p>
+            <p>And afterwards upon the diſſolution of the former <hi>Parliament,</hi> Col. <hi>Freeman</hi> by an <hi>Order</hi> of the (then) Councell (where Major Gen.<note place="margin">46. But by Or<g ref="char:EOLhyphen"/>der of the (then) councell is diſ<g ref="char:EOLhyphen"/>charged of his place of Attur<g ref="char:EOLhyphen"/>ney Gen. with<g ref="char:EOLhyphen"/>out any more charge, or proofs againſt him.</note> 
+               <hi>Harriſon</hi> had then the <hi>Honour</hi> to ſit) was in his abſence (without any crime layed to his charge) diſcharged of his place of Atturney Generall for <hi>South wales;</hi> Although hee had in that place (as alſo with the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of his bloud in the Field) given ſignall <hi>Teſtimonies</hi> of his <hi>Fidelity</hi> and <hi>Affection</hi> to the <hi>Parliament</hi> and <hi>Commonwealth</hi> of <hi>England.</hi>
+            </p>
+            <p>And Mr. <hi>Edm. Jones,</hi> (a compounded Delinquent on Record) was appointed Attorney Generall in his ſtead, who continues in that place to this day,<note place="margin">37. And M. <hi>Ed<g ref="char:EOLhyphen"/>mond Jones,</hi> put in his place.</note> notwithſtanding the ſeverall <hi>Acts</hi> and <hi>Or<g ref="char:EOLhyphen"/>dinances</hi> of <hi>Parliament,</hi> diſabling him from the execution therof.</p>
+            <p>
+               <pb n="14" facs="tcp:94444:10"/>
+               <note place="margin">48. Mr. <hi>Gunter</hi> underſtanding of the Warrant againſt him, doth voluntari<g ref="char:EOLhyphen"/>ly render him<g ref="char:EOLhyphen"/>ſelfe into the hands of the Serjeant at Armes.</note>And the ſaid <hi>John Gunter</hi> being gone into <hi>Wales</hi> to attend his civill imployments in the great <hi>Seſſions</hi> for <hi>Carmarthen, Pem<g ref="char:EOLhyphen"/>broke,</hi> and <hi>Cardigan,</hi> and underſtanding that the Warrant was iſſued out againſt him, did with all poſſible ſpeed repaire to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and voluntarily rendred himſelfe to the <hi>Sergeant at Armes</hi> attending the <hi>Councell,</hi> and as a Priſoner attended 15. weeks, ear<g ref="char:EOLhyphen"/>neſtly Petitioning for a Charge or Diſcharge.</p>
+            <p>In the meane time, ſuch was the violence of his Proſecutors, that to diſable him to attend his calling, and the ſolicitation of the ſaid Petition about <hi>Jan.</hi>
+               <note place="margin">49. Attends the Councel as a Priſoner the ſpace of fifteen weeks.</note> 1652. before any Charge brought agianſt him, he was kept a cloſe Priſoner in the Meſſengers cuſto<g ref="char:EOLhyphen"/>dy two dayes and one night, by the meanes of Major Gen: <hi>Har<g ref="char:EOLhyphen"/>riſon,</hi> who moved at the <hi>Councell</hi> againſt the <hi>Sergeant at Armes</hi> for ſuffering Mr. <hi>Gunter</hi> to have liberty, though he daily atten<g ref="char:EOLhyphen"/>ded the Councell as a Priſoner.<note place="margin">50. A Charge exhibited by <hi>Creed,</hi> brought in by Major Gen. <hi>Harriſon</hi> his Maſter, 9. <hi>Feb.</hi> 1652.</note> But the Councell being infor<g ref="char:EOLhyphen"/>med of the ſtate of his preſent caſe, would make no Order for his Reſtraint.</p>
+            <p>At laſt a malicious and impertinent Charge was brought in by the ſaid <hi>Richard Creed</hi> the Informer, and uſher'd in to the Coun<g ref="char:EOLhyphen"/>cell by Major Gen: <hi>Harriſon</hi> his (then) <hi>Maſter,</hi> 9. <hi>Feb.</hi> 1652. (about ſeven moneths after the iſſuing forth of the Warrant a<g ref="char:EOLhyphen"/>gainſt him) wherein the matters ſuggeſted by <hi>Creed</hi> meerly re<g ref="char:EOLhyphen"/>lated to <hi>John Gunter</hi> as Soliciter for the <hi>Petitioners.</hi>
+               <note place="margin">51. The mat<g ref="char:EOLhyphen"/>ter ſuggeſted of a 12. months ſtanding meer<g ref="char:EOLhyphen"/>ly for acting or ſoliciting, and 7. moneths from the date of the Warrant to the exhibit<g ref="char:EOLhyphen"/>ing of the Charge.</note>
+            </p>
+            <p>Unto which Charge, <hi>John Gunter</hi> 5. <hi>Apr.</hi> 1653. did likewiſe voluntarily put in a full and ſatisfactory <hi>Anſwer.</hi>
+            </p>
+            <p>The <hi>Petitioners</hi> and their <hi>Agents</hi> being thus dealt withall and diſcouraged, and the Report of the ſaid Committee lying <hi>dor<g ref="char:EOLhyphen"/>mant</hi> for about nine moneths, <hi>Col: Bennet</hi> and others who had the carriage of the <hi>Report,</hi> did make choice of the 23. of <hi>March,</hi> 1652. as a moſt fit and convenient time to bring in the ſame to the <hi>Parliament.</hi>
+            </p>
+            <p>
+               <note place="margin">52. M. <hi>Gunter</hi> voluntarily pure in his An<g ref="char:EOLhyphen"/>ſwer 5. <hi>April.</hi> 1653.</note> The <hi>Petitioners</hi> with their <hi>Councell</hi> and <hi>Solliciters</hi> being then out of Towne, and many worthy <hi>Members</hi> of <hi>Parliament</hi> ab<g ref="char:EOLhyphen"/>ſent, (who by their frequent ſitting at the <hi>Committee</hi> on ſeverall debates touching the ſaid Petition, were deeply ſenſible of the ſad truths therein contained.)<note place="margin">53. The Report lying dormant 9. moneths, 54. Brought in by Col: <hi>Bennet</hi> 28. <hi>Mar.</hi> 1652. whileſt the Petitioners, their Councellors and Soliciters were abſent.</note>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:94444:10"/>But the debate of that buſineſſe being <hi>providentially</hi> put off untill the <hi>Friday</hi> following (being the 25. of <hi>March)</hi> The <hi>Pet. Agents</hi> returning unexpectedly to Towne,<note place="margin">55. The debate of the Report, providentially put off till 25. <hi>Mar.</hi>
+               </note> upon Thurſday the 24. of <hi>March,</hi> and underſtanding this great buſineſſe was to be taken into conſideration in <hi>Parliament</hi> the next day, did as much as in them lay prepare an <hi>Addreſſe</hi> to the <hi>Parliament</hi> ſuitable to the ſhortneſſe of the time, and the weight and nature of the cauſe wherewith they were intruſted by their <hi>Countrey.</hi> And for that purpoſe, A Petition was preſented unto the <hi>Parliament,</hi>
+               <note place="margin">56. Mr. <hi>Charles Roberts</hi> Pet. with particu<g ref="char:EOLhyphen"/>lars and Reply, put in the 25. of <hi>March.</hi>
+               </note> the ſaid 25. of <hi>March,</hi> with a copie of the particulars &amp; Reply here<g ref="char:EOLhyphen"/>in after recited, by Mr. <hi>Charles Roberts,</hi> one of the <hi>Pet. Soliciters,</hi> in theſe words, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <head>To the <hi>Supreame Authority,</hi> the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> of the <hi>Common-wealth</hi> of <hi>ENGLAND.</hi>
+                  </head>
+                  <head type="sub">The <hi>humble Petition</hi> of CHARLES ROBERTS of <hi>Grayes-Inne</hi> Gent'.</head>
+                  <opener>SHEWETH,</opener>
+                  <p>THat your <hi>Honours</hi> having appointed this day to take into con<g ref="char:EOLhyphen"/>ſideration your <hi>Honours Act of the 23. of February 1649.</hi> Intituled, <hi>An Act for the better propagation of the Goſpel in Wales,</hi> and ſome <hi>Petitions</hi> and <hi>Proceedings</hi> relating thereunto; Your <hi>Petitioner</hi> out of his duty to <hi>God,</hi> and his <hi>Native Countrey,</hi> and for and on the behalfe of the <hi>Petitioners</hi> of the <hi>ſix Counties of South-wales, and County of Monmouth,</hi> (by whom he is entruſt<g ref="char:EOLhyphen"/>ed amongst others as their <hi>Agent</hi> and <hi>Soliciter</hi>) Humbly to offer to your <hi>Honours</hi> conſideration the Particulars and Reply hereunto an<g ref="char:EOLhyphen"/>nexed (The Originall whereof hath been long ſince lodged with the <hi>Honourable Committee</hi> for <hi>Plundred Miniſters,</hi> And by their <hi>Honours Order</hi> of <hi>16. July</hi> and <hi>20. Auguſt</hi> laſt, hereunto likewiſe annexed, admitted in order to a <hi>Report</hi> thereof to your <hi>Honours,</hi> which nevertheleſſe (as your <hi>Petitioner</hi> is informed) are omitted out of the <hi>Report</hi> of the ſaid <hi>Honourable Committee:</hi> In reſpect
+<pb n="16" facs="tcp:94444:11"/>
+whereof your Petitioner is inforced to this humble addreſſe to your <hi>Honours,</hi>
+                  </p>
+                  <p>
+                     <hi>Earneſtly beſeeching your Honours</hi> on the behalfe of the ſaid <hi>Petitioners,</hi> to take the whole into your ſerious conſide<g ref="char:EOLhyphen"/>ration, in order to a future redreſſe of their grievances, partly contained in the ſaid <hi>Petition, Particulars,</hi> and <hi>Re<g ref="char:EOLhyphen"/>ply,</hi> in ſuch way as to your <hi>Honours</hi> grave wiſdomes ſhall ſeeme meet,</p>
+                  <p>
+                     <note place="margin">57. The <hi>Reſolve</hi> of <hi>Parliament,</hi> 25 <hi>May</hi> 1653.</note> For which not only your <hi>Petitioner,</hi> but many <hi>thou<g ref="char:EOLhyphen"/>ſands</hi> of the <hi>Inhabitants</hi> of <hi>Wales</hi> will have cauſe to pray, &amp;c.</p>
+               </body>
+            </floatingText>
+            <p>Whereupon,<note place="margin">58. The Petiti<g ref="char:EOLhyphen"/>oners Agents attend the Committee with the Re<g ref="char:EOLhyphen"/>ſolves, and move for a Commiſſion.</note> and on conſideration, and debate had of the <hi>Report</hi> brought in by Colonell <hi>Bennet,</hi> and of the whole matter as it then lay before the <hi>Parliament,</hi> they paſſed this inſuing <hi>Reſolve.</hi>
+            </p>
+            <p>Reſolved <hi>by the Parliament, that this Report be re-committed with power to the Committee to examine the whole matter of Fact,<note place="margin">59. The Petiti. delayed untill Thurſday, and the <hi>Parliament</hi> diſſolved the wedneſday be<g ref="char:EOLhyphen"/>fore, and the Committee could not act any longer.</note> and to Report it to the Parliament.</hi>
+            </p>
+            <p>Afterwards the <hi>Petitioners</hi> Councell, and Sollicitors did at<g ref="char:EOLhyphen"/>tend the ſaid <hi>Committee</hi> with the ſaid <hi>Reſolve;</hi> And ſeverall times moved them in purſuance thereof, and of the former <hi>Re<g ref="char:EOLhyphen"/>ſolve</hi> of <hi>Parliament,</hi> of the 10 of <hi>March</hi> 1651. To grant <hi>Com<g ref="char:EOLhyphen"/>miſſions</hi> to the Countrey, to examine the truth of the <hi>Petiti<g ref="char:EOLhyphen"/>on, Particulars</hi> and <hi>Reply;</hi> whereby the ſaid <hi>Committee</hi> might be inabled to <hi>Report</hi> the whole matter of <hi>Fact</hi> to the <hi>Parlia.</hi> But the ſaid <hi>Committee</hi> did put it off untill <hi>Thurſday</hi> 21 <hi>Apr.</hi> 1653.<note place="margin">60. The Petiti<g ref="char:EOLhyphen"/>ones intend to revive their Petition before the laſt <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+               </note>
+            </p>
+            <p>And the <hi>Parliament</hi> being diſſolved the <hi>Wedneſday</hi> before, the ſaid <hi>Committee,</hi> became conſequently diſſolved, and no fur<g ref="char:EOLhyphen"/>ther proceedings could be had before them on the ſaid <hi>Petition</hi> and <hi>Reſolves.</hi>
+            </p>
+            <p>The <hi>Petitioners</hi> intending to revive their <hi>Petition,</hi>
+               <note place="margin">61. Mr. <hi>Gunter</hi> their Sollicitor was the ſecond time impriſon<g ref="char:EOLhyphen"/>ed by order of an abſolute Warrant, and Order of Maj. Gen. <hi>Harriſon.</hi>
+               </note> and <hi>Com<g ref="char:EOLhyphen"/>plaint</hi> before the late <hi>Parliament,</hi> and the noyſe thereof com<g ref="char:EOLhyphen"/>ing to the eares of ſome perſons concerned, The ſaid <hi>John Gun<g ref="char:EOLhyphen"/>ter</hi> the <hi>Petitioners</hi> Solliciter, became the ſecond time a priſoner, being apprehended by <hi>Edmond Dendy</hi> Eſquire, Serjeant at <hi>Ames</hi> to the (then) Councell, and by him committed to the cuſtody of Mr. <hi>Humphrey Holden,</hi> one of the Meſſengers attend<g ref="char:EOLhyphen"/>ing
+<pb n="17" facs="tcp:94444:12"/>
+the ſame Councell, where he then remained two dayes,<note place="margin">50. Mr. <hi>Gunter</hi> demands the cauſe of his impriſonment.</note> and one night, who demanding by whoſe Warrant and Authority he was reſtrained of the liberty held forth by the Law of the Land, to the free People of this Nation, was anſwered; That hee was detained by vertue of a Warrant iſſued forth in <hi>Auguſt.</hi> 1652. and the ſpeciall directions of Major Gen. <hi>Harriſon.</hi>
+            </p>
+            <p>The ſaid <hi>John Gunter</hi> having obtained a Copy of the ſaid <hi>Or<g ref="char:EOLhyphen"/>der,</hi> and ſeriouſly conſidering of the ſame,<note place="margin">51. The An<g ref="char:EOLhyphen"/>ſwer given him therein.</note> did finde the tenour thereof to be meerly for bringing in his perſon to appeare, and anſwer before the former <hi>Councell,</hi> to ſuch things as ſhould be then and there objected againſt him. And in regard hee had ſatisfied that <hi>Order</hi> by his voluntary appearance and anſwer, and finding no <hi>Order</hi> for his reſtraint, but the very <hi>Councell</hi> it ſelfe diſſolved, he did conceive that he ought not to be reſtrained of his liberty by colour of the ſaid <hi>Order,</hi> or any other verball Command or Directions; Whereupon he was plainly told that hee muſt remaine a Priſoner, untill hee did obtaine an <hi>Order</hi> of diſcharge from the (then <hi>Councell</hi>) or from Major Generall <hi>Harriſon;</hi> who being thus ſtraitned, and not at all Commit<g ref="char:EOLhyphen"/>ted by any <hi>Order</hi> of the then <hi>Councell;</hi> did direct a Letter to Major Generall <hi>Harriſon,</hi> To this effect,<note place="margin">52. M. <hi>Gunters</hi> Letter to Ma<g ref="char:EOLhyphen"/>jor Generall <hi>Harriſon,</hi> touching his Reſtrained.</note> 
+               <hi>viz.</hi>
+
+               <q>That hee had beene expoſed to extraordinary expence, and loſſe of time, and was much damnified by the cauſeleſſe proſecution of his ſervant  <hi>Richard Creed,</hi>unto whoſe charge hee had long before put in a full and ſa<g ref="char:EOLhyphen"/>tisfactory Anſwer, before the former <hi>Councell,</hi> whereby their <hi>Order</hi>  was fulfilled, and themſelves ſufficiently ſatisfied of his Innocency. And deſired his Honour to conſider how unuſuall and deſtructive a courſe it was to the free People of this <hi>Nation, </hi> to be deprived of their juſt Liberties by verball commands, or otherwiſe on bare information, before a legall Triall, and Conviction; And therefore hoped hee ſhould not be made the firſt preſident of that na<g ref="char:EOLhyphen"/>ture, ſince the eſtabliſhment of that Government; But that his Honour and all other in Authority would be pleaſed to protect him, whileſt hee behaved himſelfe inoffenſive towards their Government.</q>
+  
+               <note place="margin">53. Mr. <hi>Gunter</hi> afterwards diſ<g ref="char:EOLhyphen"/>charged by Ma. Generall <hi>Harriſons</hi> direction.</note> Whereupon Major Generall <hi>Harriſon,</hi> taking the Premiſſes in<g ref="char:EOLhyphen"/>to conſideration, was pleaſed to give Order and Directions to the Serjent at Armes to diſcharge the ſaid <hi>John Gunter,</hi> from his reſtraint and puniſhment.</p>
+            <p>
+               <pb n="18" facs="tcp:94444:13"/>
+               <note place="margin">34. Mr. <hi>Gunter</hi> received no Reparation, thought dami<g ref="char:EOLhyphen"/>fied above 1000 <abbr>l.</abbr>
+               </note>Which being performed, <hi>notwithſtanding</hi> though Mr. <hi>Gunter</hi> being of known integrity to the <hi>Common-wealth,</hi> yet by colour of this falſe Accuſation (without proofe made againſt him, or any Tryall or Conviction) was debarred of the benefit of his <hi>Profeſſion,</hi> in the execution of ſeverall places, and imployments wherein hee was intruſted; And hath not to this day <hi>Received</hi> any <hi>Reparation</hi> for his loſſes and dammages thereby ſuſtained, though hee hath beene damnified every way above a thouſand pound.</p>
+            <p>Having given you the true Relation of the whole Tranſacti<g ref="char:EOLhyphen"/>on concerning the <hi>Petition,</hi> with the <hi>Parliament Reſolves,</hi> and ſeverall <hi>Orders</hi> and <hi>Reports</hi> by the Committee for Plundred Mi<g ref="char:EOLhyphen"/>niſters and others thereupon, with the manifold Obſtructions in the Proſecution thereof, both by ſeverall miſcarriages of Clerks and other Agents. And the grievous Reſtraynment of the <hi>Petitioners</hi> Councell, and Sollicitors from their Liberties. I paſſe on to the Particular Heads of the Charge put in by the <hi>Petitioners.</hi>
+            </p>
+         </div>
+         <div n="2" type="part">
+            <pb n="19" facs="tcp:94444:13"/>
+            <head>
+               <hi>II.</hi> The Particular <hi>CHARGE.</hi>
+            </head>
+            <argument>
+               <p>The Generall Heads of the <hi>PETITION</hi> of the Six Counties of <hi>South-wales,</hi> and County of <hi>Monmouth,</hi> together with the particulars therein con<g ref="char:EOLhyphen"/>tained; Whereupon the <hi>Petitioners</hi> deſire to have liber<g ref="char:EOLhyphen"/>ty to examine Witneſſes in the <hi>Countrey</hi> by <hi>Commiſ<g ref="char:EOLhyphen"/>ſion,</hi> where matter of Act ariſeth, and the Witneſſes reſide, according to the Reſolves of <hi>Parliament</hi> of the <hi>10</hi> of <hi>March</hi> last, humbly preſented to the Honourable <hi>Committee</hi> for plundered Miniſters.</p>
+            </argument>
+            <div n="1" type="head">
+               <head>The Firſt Generall HEAD.</head>
+               <argument>
+                  <p n="1">1. THat all or moſt of the <hi>Miniſters</hi> of the Six Counties of <hi>South-wales,</hi> and County of <hi>Monmouth,</hi> have been ejected from their reſpective Benefices.]</p>
+               </argument>
+               <p>
+                  <label>More paticularly,</label>
+
+                  <list>
+                     <label>Monmouth, <hi>53.</hi>
+                     </label>
+                     <item>In the County of <hi>Monmouth</hi> 53. and upwards, whereof 28. Maſters of Arts, 15 Batchelors of Divinity, 10 Preaching Gra<g ref="char:EOLhyphen"/>duates, and Univerſity-men, beſides all thoſe Curats and Stipen<g ref="char:EOLhyphen"/>daries that were imployed to Preach and Officiate for Pluraliſts and Impropriators.</item>
+                     <label>Glamorgan, <hi>40.</hi>
+                     </label>
+                     <item>
+                        <label>Miniſters ejected <hi>40.</hi> and upwards.</label> Whereof two Doctors of Divinity, three Batchelors of Di<g ref="char:EOLhyphen"/>vinity, 16 Maſters of art, 19 preaching Graduats and Univerſi<g ref="char:EOLhyphen"/>tymen,
+<pb n="20" facs="tcp:94444:14"/>
+beſides Curats and Stipendaries imployed to preach, and officiate for Pluraliſts and Impropriators.</item>
+                     <label>Brecknock, <hi>32.</hi>
+                     </label>
+                     <item>
+                        <label>Miniſter ejected <hi>32.</hi>
+                        </label>  Whereof one Doctor of Divinity, three Batchelors of Di<g ref="char:EOLhyphen"/>vinity, 18 Maſters of Art, 10 Graduats and Univerſitymen, beſides Curats and Stipendaries imployed to preach and offici<g ref="char:EOLhyphen"/>ate for Pluraliſts and Impropriators.</item>
+                     <label>Radnor, <hi>30.</hi>
+                     </label>
+                     <item>
+                        <label>Miniſters ejected <hi>30</hi> and upwards.</label>  Whereof one Doctor of Divinity, two Batchelers of Divinity, ſix Maſters of Art, beſides other Graduats, Curats, and Stipen<g ref="char:EOLhyphen"/>daries, imployed to preach, and officiate in other Churches and Chappells, and to ſupply the places of Pluraliſts and Impro<g ref="char:EOLhyphen"/>priators.</item>
+                     <label>Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rmarthen <hi>30.</hi>
+                     </label>
+                     <item>
+                        <label> Miniſters ejected <hi>30</hi> upwards.</label> Beſides Curats and Stipendaries and other Graduates, and Univerſitymen imployed to preach, and officiate for Pluralities, and Improperties.</item>
+                     <label>
+                        <hi>Cardigan,</hi> 20.</label>
+                     <item>
+                        <label>Miniſters ejected <hi>20</hi> and upwards.</label>  Beſides Curats and Stipendaries imployed to preach, and officiate for Pluraliſts and Impropriators.</item>
+                     <label>Pembrok. <hi>32.</hi>
+                     </label>
+                     <item>
+                        <label>Miniſters ejected thirty two, and upwards.</label>  Conſiſting moſt of them, of able Preachers and Univerſitymen. and other Graduates, beſides Curats, and Stipendaries imploy<g ref="char:EOLhyphen"/>ed and Stipended to Preach and officiate for Pluraliſts, and Impropriators.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="2" type="head">
+               <head>The Second Generall HEAD.</head>
+               <argument>
+                  <p>That few or none of the ſaid <hi>Countries</hi> have been ſupplied, with a competent number of Godly able Teachers to offi<g ref="char:EOLhyphen"/>ciate in the roomes of the outed <hi>Ministers,</hi> there being not above foure or five Itinerary Teachers, in ſome of the ſaid <hi>Counties</hi> appointed, and approved of to Preach the <hi>Gospell;</hi> whereas ſome of the ſaid <hi>Counties</hi> conſiſt of 120.
+<pb n="21" facs="tcp:94444:15"/>
+Pariſhes, and the leaſt thereof conſiſting of 50. many whereof have therein above 2000 Soules.]</p>
+               </argument>
+               <p>
+                  <label>More particularly.</label>
+
+                  <list>
+                     <label>Monmouth not above <hi>20.</hi>
+                     </label>
+                     <item>That the County of <hi>Monmouth</hi> hath in it 140 odd Pariſhes,  to ſupply which Pariſhes, there are now of approved Othodox Godly able Teachers and Miniſters, reſident, ſtipended and allowed of to preach and officiate, according to the Act of <hi>Parliament</hi> of the 22 of <hi>Feb.</hi> 1649 not above 20.</item>
+                     <label>Glamorgan not above <hi>20,</hi>
+                     </label>
+                     <item>That the County of <hi>Glamorgan</hi> hath in it 151 Pariſhes,  to ſupply which Pariſhes, there are now of approved Orthodox Godly able Teachers and Miniſters reſident, ſtipended and allowed of to preach and officiate, according to the Actor of <hi>Parliament,</hi> of the 22 of <hi>Feb.</hi> 1649. not above twenty.</item>
+                     <label>Brecknock not above <hi>4,</hi>
+                     </label>
+                     <item>That the County of <hi>Brecon</hi> hath in it 60 odd Pariſhes,  to ſup<g ref="char:EOLhyphen"/>ply which there are now of approved Orthodox godly able Teachers and Miniſters reſident, ſtipended, and allowed to Preach and Officiate according to the ſaid Act, not above 4.</item>
+                     <label>Radnor not above <hi>8:</hi>
+                     </label>
+                     <item>That the County of <hi>Radnor</hi> hath in it 50 Pariſhes,  to ſupply which Pariſhes there are now of approved Orthodox godly able Teachers and Miniſters Stipended, allowed and approved of to preach and officiate, according to the ſaid <hi>Act,</hi> not above 8.</item>
+                     <label>Carmarthen not above <hi>7</hi>
+                     </label>
+                     <item>That the County of <hi>Carmarthen</hi> hath in it 81 Pariſhes,  to ſupply which Pariſhes, there are now of approved Oxthodox godly able Teachers and Miniſters reſident, ſtipended, allowed and approved of to preach and officiate, according to the ſaid <hi>Act,</hi> not above 7.</item>
+                     <label>Cardigan not above <hi>12</hi>
+                     </label>
+                     <item>That the County of <hi>Cardigan</hi> hath in it 60 odd Pariſhes,  to ſupply which Pariſhes, there are now of approved Miniſters qualified as aforeſaid, not above 12.</item>
+                     <label>Pembroke not above <hi>30,</hi>
+                     </label>
+                     <item>That the County of <hi>Pembroke</hi> hath in it 140 odd Pariſhes,  to ſupply which Pariſhes, there are now of approved Orthodox godly able Teachers and Miniſters reſident, ſtipended and ap<g ref="char:EOLhyphen"/>proved of to Preach and officiate, according to the ſaid <hi>Act</hi> not above 30.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="3" type="head">
+               <pb n="22" facs="tcp:94444:16"/>
+               <head>The Third Generall HEAD.</head>
+               <argument>
+                  <p>
+                     <note place="margin">Shcoole-Maſters.</note>That there hath not been provided ſuch a convenient number of good Schooles, for the education of Children, and ad<g ref="char:EOLhyphen"/>vancement of Learning as was intended by the <hi>Parliament,</hi> and the true purport of the ſaid <hi>Act.</hi>]</p>
+               </argument>
+               <p>
+                  <label>More particularly,</label>
+                  <list>
+                     <label>Monmouth not above <hi>3.</hi>
+                     </label>
+                     <item>  That in the County of <hi>Monmouth</hi> there are not above three Godly able <hi>Schoole-masters</hi> ſtipended, qualified, allowed, and ap<g ref="char:EOLhyphen"/>proved of, according to the ſaid Act, having therein 140 odd Pariſhes as aforeſaid.</item>
+                     <label>Glamorgan not above <hi>4,</hi>
+                     </label>
+                     <item> Not above foure, having therein 151 Pariſhes as afore<g ref="char:EOLhyphen"/>ſaid.</item>
+                     <label>Brecknock not above <hi>3,</hi>
+                     </label>
+                     <item> Not above three, having therein 60 odd Pariſhes as afore<g ref="char:EOLhyphen"/>ſaid.</item>
+                     <label>Radnor not above <hi>3,</hi>
+                     </label>
+                     <item> 
+                        <hi>Radnor</hi> not above three, having therein 50 Pariſhes as a<g ref="char:EOLhyphen"/>foreſaid.</item>
+                     <label>Carmarthen not above <hi>2,</hi>
+                     </label>
+                     <item> Not above two, having therein 81 Pariſhes as afore<g ref="char:EOLhyphen"/>ſaid.</item>
+                     <label>Penbrook not above <hi>3,</hi>
+                     </label>
+                     <item> Not above three, having therein 140 odd Pariſhes as afore<g ref="char:EOLhyphen"/>ſaid.</item>
+                     <label>Cardigan not above <hi>3.</hi>
+                     </label>
+                     <item>  Not above three, having therein 60 odd Pariſhes as afore<g ref="char:EOLhyphen"/>ſaid.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="4" type="head">
+               <head>The fourth generall Head.</head>
+               <argument>
+                  <p>That ſome perſons deriving authority from the ſaid Act, have for above two yeeres laſt paſt received and diſpoſed of the Tythes, Glebes, Impropriations, Tenths, Portions of tythes, Rents reſerved, Colledge Penſions, and other Benefices and Eccleſiaſticall Livings and Promotions whatſoever within the ſix Counties of <hi>South-wales</hi> and County of <hi>Monmouth</hi> annually worth 20000. <abbr>l.</abbr> or thereabout.] <hi>viz.</hi>
+                  </p>
+               </argument>
+               <p>That Col: <hi>Thomas Harriſon,</hi> Col: <hi>Philip Jones,</hi> Col: <hi>John
+<pb n="23" facs="tcp:94444:16"/>
+Jones,</hi> Sir <hi>John Trevar</hi> Knight, <hi>Henry Herbert</hi> 
+                  <abbr>Eſq</abbr> 
+                  <hi>Will: Herbert, Will: Parker, Will: Blethin, Chriſtopher Katchmay,</hi> and the reſt of the Commiſſioners named in the ſaid Act, to execute the ſeve<g ref="char:EOLhyphen"/>rall powers therein contained, ware thereby impowred and en<g ref="char:EOLhyphen"/>truſted by themſelves and others deriving authority from them, to receive and diſpoſe of all and ſingular the Rents, Iſſues of all and every the Rectories, Vicaridges, Donatives <hi>ſine Curis,</hi> Por<g ref="char:EOLhyphen"/>tions of Tenths, and other Eccleſiaſticall Livings, which all the time of paſſing the ſaid Act then were or then after ſhould be in the diſpoſing of the Parliament, or any others deriving au<g ref="char:EOLhyphen"/>thority from them. As alſo to receive and diſpoſe of the Rents, Iſſues and Profits of all Impropriations and Glebe-lands within the ſaid Counties, which then were or then after ſhould be un<g ref="char:EOLhyphen"/>der Sequeſtration, or in the diſpoſall of the Parliament by ver<g ref="char:EOLhyphen"/>tue of any former Statute, or any Act or Ordinance of this pre<g ref="char:EOLhyphen"/>ſent Parliament. The particular valuations of the ſaid reſpective Tithes and premiſſes within the ſaid reſpective Counties are as followeth, <hi>viz.</hi>
+                  <list>
+                     <label>Monmouth:</label>
+                     <item>The Tythes, Tenths, Portions of tythes, Glebes, Impropriati<g ref="char:EOLhyphen"/>ons, Rents reſerved, Colledge Penſions, and other Eccleſia<g ref="char:EOLhyphen"/>ſticall Livings, Procurations, Promotions, &amp;c. in the county of <hi>Monmouth,</hi> annually worth 14500 <abbr>l.</abbr>
+                     </item>
+                     <label>Glamorgan:</label>
+                     <item>The Tythes and premiſſes annually worth 4500 <abbr>l.</abbr>
+                     </item>
+                     <label>Brecknock:</label>
+                     <item>The Tythes and Premiſſes annually worth 2500 <abbr>l.</abbr>
+                     </item>
+                     <label>Radnor:</label>
+                     <item>The Tythes and Premiſſes annually worth 2000 <abbr>l.</abbr>
+                     </item>
+                     <label>Carmarthen:</label>
+                     <item>The Tythes and Premiſſes annually worth 2000 <abbr>l.</abbr>
+                     </item>
+                     <label>Cardigan:</label>
+                     <item>The Tythes and Premiſſes annually worth 1000 <abbr>l.</abbr>
+                     </item>
+                     <label>Pembroke:</label>
+                     <item>The Tythes and Premiſſes annually worth 3500 <abbr>l.</abbr>
+                     </item>
+                  </list>
+
+Which in the whole comes to the intire ſumme of 20000 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>And the better to ſatisfie your Honours of the reall valuations of the ſaid Tythes and premiſſes, the Petitioners are ſo far from overvaluing the ſame, that they ſhall and will be ready, and doe hereby offer your Honours to give good ſecurity for the ſaid Tythes and premiſſes within the ſaid ſeven counties 20000 <abbr>l.</abbr> 
+                  <hi>per ann.</hi> ſo as they may have, collect and enjoy the ſame with the ſame power and authority, and in the ſame beneficiall manner as
+<pb n="24" facs="tcp:94444:17"/>
+the ſaid Commiſſioners and their Agents have received, made or raiſed, or might have received, made or raiſed the ſame, and the reſpective Inhabitants, &amp;c. will be well contented to farme their owne reſpective Tythes, and other the premiſſes proportionably according to this offer and valuation made by the Petitioners. The ſaid offer of the Petitioners being 20000<abbr>l.</abbr> more in two years, then the Commiſſioners account in their generall anſwer.</p>
+            </div>
+            <div n="5" type="head">
+               <head>The fift generall Head.</head>
+               <argument>
+                  <p> 
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> That little of the ſaid Tythes and premiſſes have been conver<g ref="char:EOLhyphen"/>ted towards the propagation of the Goſpell, or account<g ref="char:EOLhyphen"/>ed for to the State.]</p>
+               </argument>
+               <p>
+                  <hi>The Petitioners will make this evident,</hi>
+               </p>
+               <p n="1">1. That no <hi>Accompt</hi> it all was given or rendred the Parlia<g ref="char:EOLhyphen"/>ment of the ſaid Tythes and premiſſes, untill the Petition was preferred.</p>
+               <p n="2">2. That the accompt given in by the Commiſſioners in an<g ref="char:EOLhyphen"/>ſwer to the <hi>Petition</hi> is onely in generall, not expreſſing in parti<g ref="char:EOLhyphen"/>cular what profit of the Tythes and premiſſes they received, nor out of what, nor how diſpoſed, ſave onely an acknowledgement of the receipt of 20000 <abbr>l.</abbr> or thereabouts, which the Petitioners humbly pray they may doe. And the Petitioners having a copy thereof, and convenient time, are ready to exhibit a particular ſurcharge, the Petitioners having not yet obtained a copy of the generall anſwer and accompt brought in to the Clerk of the ſaid Honourable Committee, although the Petitioners by their A<g ref="char:EOLhyphen"/>gents uſed their endeavour therein, Maſter <hi>Phelps</hi> having an<g ref="char:EOLhyphen"/>ſwered the <hi>Petitioners Agents,</hi> that the ſaid Anſwer was ſealed up, and order given him, that no copy thereof ſhould be given the <hi>Petitioners</hi> or their <hi>Agents.</hi>
+               </p>
+               <p n="3">3. The Petitioners will alſo make it apparent, that little of the ſaid Tythes and premiſſes have been converted to the propaga<g ref="char:EOLhyphen"/>tion of the Goſpel, or accompted for to the State.</p>
+               <p>By theſe few qualified ſtipended Teachers, Miniſters, &amp; School-maſters imployed and ſtipended to teach and officiate.</p>
+               <pb n="25" facs="tcp:94444:18"/>
+               <p n="4">4. By the ſmall Stipends and Salaries allowed them out of the Tythes and Premiſſes, whereof ſome have ſadly com<g ref="char:EOLhyphen"/>plained.</p>
+               <p n="5">5. By the ſmall allowances for 5<hi rend="sup">ts</hi> paid to the ejected <hi>Miniſters</hi> wives, though allowed according to the full value by the <hi>Act</hi> of <hi>Parliament.</hi>
+               </p>
+            </div>
+            <div n="6" type="head">
+               <head>The Sixt General HEAD.</head>
+               <argument>
+                  <p n="6">6. That the Tithes and Premiſſes for the two laſt yeares have beene ſet out at undervalues, to the prejudice of the <hi>State.</hi>]</p>
+               </argument>
+               <p n="1">1. The <hi>Petitioners</hi> will make good, That not one Vicaridge, Rectory, or other of the Impropriat Tithes and Premiſſes, but have been let out at undervalues in every particular Pariſh. But becauſe the <hi>Petitioners</hi> are deſirous to give your Honours a more particular ſatisfaction therein, they doe for inſtance name, and particularize,</p>
+               <p>That the Rectory of <hi>Lanavon <g ref="char:V">Ʋ</g>awre,</hi> in the County of <hi>Bre<g ref="char:EOLhyphen"/>con,</hi> being valued by apprizers upon Oath at 100 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> yet ſet out at 55 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> though 80 <abbr>l.</abbr> 
+                  <hi>per annum</hi> hath beene offered for it, and ſufficient ſecurity for payment of the Rent, out of which the 5 <hi rend="sup">ts</hi> and contribution being deducted the <hi>State</hi> will have but a ſmall proportion out of the ſame.</p>
+               <p>The Gleabe is worth 4 <abbr>l.</abbr> 10 <abbr>s.</abbr> 
+                  <hi>per annum,</hi> and ſo much would have beene given for it, yet ſet out at 40 <abbr>s.</abbr> 
+                  <hi>per annum.</hi>
+               </p>
+               <p>The Vicaridge of <hi>Glasbury,</hi> in the County of <hi>Brecon,</hi> and <hi>Radnor</hi> being worth 100 <abbr>l.</abbr> 
+                  <hi>per ann.</hi> upwards, is ſet out at 50 <abbr>l.</abbr> 
+                  <hi>per an.</hi> Though 80 <abbr>l.</abbr> 
+                  <hi>per annum</hi> was offered to be paid for the ſame, and once aſſented unto, and ſecurity offered for payment of the Rent, and to include the fifths within the 80 <abbr>l.</abbr> ſo that the fifths and contributions being deducted out of the Rent now paid for the ſame, the <hi>State</hi> will have the leaſt proportion thereof.</p>
+               <p>That the Vicaridge of <hi>Devynnog</hi> is worth 120 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and upwards, yet ſet out at 60 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and contributions thereout paid.</p>
+               <p>
+                  <pb n="18" facs="tcp:94444:19"/>That the Vicaridge of <hi>Lliwell</hi> is worth 50 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> yet ſet out at 15 <abbr>l.</abbr> 
+                  <hi>per annum.</hi>
+               </p>
+               <p>That <hi>John Rice</hi> offered for the Tiths of <hi>Llangunur</hi> 30 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> yet the ſame hath beene let by <hi>John Hughes</hi> the Seque<g ref="char:EOLhyphen"/>ſtrator, to his own brother at 15 <abbr>l.</abbr> and thereout the fifths and contributions deducted, whereby the <hi>State</hi> is defrauded.</p>
+               <p>That the Impropriate Churches of <hi>Chirckhowell Llangeney, Llangattock, Llanelley, Cumdy,</hi> &amp;c. ſcituate in the County of <hi>Brecon,</hi> Sequeſtred for the Delinquency of <hi>Edward</hi> earle of <hi>Worceſter</hi> are worth 350 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and 300 <abbr>l.</abbr> would have been given for it, yet let out for 150 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>That the Rectory of <hi>Llanelley, Llawdeneylogg, Llangendirne Llannon</hi> and <hi>Pembrey,</hi> with the Chappells annexed, ſcituate in the County of <hi>Carmarthen,</hi> parcell of the eſtate of the Lord <hi>Percy,</hi> let out to <hi>Henry Vaughan</hi> Eſquire, late Sir <hi>Henry Vaughan</hi> Knight, a Delinquent, at 60 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> well worth 800 <abbr>l.</abbr> 
+                  <hi>per annum</hi> and upwards, and ſo much would be given for the ſame.</p>
+               <p>The Tyths of <hi>Sleynton,</hi> worth 50 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 25 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>The Tyths of <hi>Hubbarſton</hi> are worth 70 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> let out for 25 <abbr>l.</abbr>
+               </p>
+               <p>The Tyths of <hi>Llangam</hi> worth 60 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 30 let <hi>per annum.</hi>
+               </p>
+               <p>The Tiths of <hi>Twynnells,</hi> worth 28 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 8 <abbr>l.</abbr> 
+                  <hi>per annum</hi> to Mr. <hi>White</hi> a neer Kinſman to the ſequeſtrator.</p>
+               <p>The Tyths of <hi>Hodſton,</hi> worth 50 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> set out at 28 <abbr>l.</abbr> 
+                  <hi>per annum.</hi>
+               </p>
+               <p>The Vicaridge of <hi>Muncton</hi> worth 30 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> set out un<g ref="char:EOLhyphen"/>to M. <hi>John Lort,</hi> brother to <hi>Sampſon Lort,</hi> one of the <hi>Commiſſi<g ref="char:EOLhyphen"/>oners</hi> for <hi>Propagation</hi> at 10 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>The Tyths of <hi>Warren</hi> worth 80 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and ſet out to the ſaid <hi>John Lort</hi> at 35 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>The Tyths of <hi>Castle Martin,</hi> worth 50 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out un<g ref="char:EOLhyphen"/>to the ſaid <hi>Roger White</hi> at 24 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>
+                  <hi>Rhayadar</hi> worth 40 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 25 <abbr>l.</abbr>
+               </p>
+               <p>St. <hi>Harmon,</hi> worth 50 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 24 <abbr>l.</abbr>
+               </p>
+               <p>
+                  <hi>Hyopp,</hi> worth 50 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 25 <hi>per ann.</hi>
+               </p>
+               <p>
+                  <pb n="19" facs="tcp:94444:19"/>
+                  <hi>Llangunllo,</hi> worth 32 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 21 <abbr>l.</abbr> 
+                  <hi>per annum.</hi>
+               </p>
+               <p>
+                  <hi>Kevenleere,</hi> worth 80 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and ſet out at 60 <abbr>l.</abbr> 
+                  <hi>per annum.</hi>
+               </p>
+               <p>
+                  <hi>Llanbadarn Vawre,</hi> worth 80 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 60 <abbr>l.</abbr> 
+                  <hi>per annum.</hi>
+               </p>
+               <p>
+                  <hi>Witten,</hi> worth 30 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 15 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>
+                  <hi>Blethvach</hi> worth 80 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 35 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>
+                  <hi>Caſcob</hi> worth 40 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out 25 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>
+                  <hi>New Radnor</hi> worth 80 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 50 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>
+                  <hi>Bochrwd,</hi> and <hi>Llamb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>der</hi> worth 120 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 80 <abbr>l.</abbr>
+               </p>
+               <p>
+                  <hi>Glandeſtrey</hi> worth 70 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 40 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>
+                  <hi>Bryngwyn</hi> worth 70 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 40 <abbr>l.</abbr> 
+                  <hi>per annum.</hi>
+               </p>
+               <p>
+                  <hi>New Church,</hi> worth 28 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 14 <abbr>l.</abbr> 
+                  <hi>per annum.</hi>
+               </p>
+               <p>
+                  <hi>Diſſerth</hi> and <hi>Bettus,</hi> worth 80 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet at 35 <abbr>l.</abbr>
+               </p>
+               <p>
+                  <hi>Aberedowe,</hi> worth 120 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 80 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>The Tyths of <hi>Cherrington,</hi> in the County of <hi>Glamorgan,</hi> worth 100 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and upwards, ſet out by Col. <hi>Jones</hi> ſervant to Mr. <hi>William Baſſet</hi> at 35 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and contributions, and fifths thereout deducted, whereof the <hi>State</hi> is defrauded 75 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>The Tyths of <hi>Biſhopſton,</hi> in the ſaid County, worth 120 <abbr>l.</abbr> 
+                  <hi>per annum</hi> and upwards, and 60 <abbr>l.</abbr> offered for it, yet let at 45 <abbr>l.</abbr> 
+                  <hi>per ann.</hi> and contributions thereout, deducted, whereby the <hi>State</hi> hath the leaſt part thereof.</p>
+               <p>
+                  <hi>Lambeder</hi> Vicaridge in the County of <hi>Pembroke,</hi> worth 140 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 60 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> to M. <hi>John Ellyott,</hi> and <hi>Mor<g ref="char:EOLhyphen"/>rice Bateman.</hi>
+               </p>
+               <p>
+                  <hi>Llandiſillio</hi> Vicaridge (for ſo much of it as lies in the County of <hi>Pembroke</hi>) worth 6 <abbr>l.</abbr> 6 <abbr>s.</abbr> 8 <abbr>d.</abbr> ſet out to <hi>Morrice Morgan</hi> at 3 <abbr>l:</abbr> 10 <abbr>s.</abbr>
+               </p>
+               <p>
+                  <hi>Llanvalteg</hi> Caſtle <hi>Deren</hi> in the County of <hi>Carmarthen,</hi> worth 100 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> let out at 40 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and Taxations there<g ref="char:EOLhyphen"/>out allowed.</p>
+               <p>The Vicaridge of <hi>Llanuthull,</hi> worth 40 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and up<g ref="char:EOLhyphen"/>wards, ſet out at 22 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>
+                  <pb n="28" facs="tcp:94444:20"/>The Vicaridge of <hi>Llangamarch,</hi> worth 60 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out at 34 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>The Vicaridge of <hi>Llawrenny,</hi> worth 80 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and up<g ref="char:EOLhyphen"/>ward; ſet out at 30 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and contributions thereout paid, and the Pariſhioners could not Farme the ſame though they offered for it 44 <abbr>l.</abbr> and to pay all Taxations, and Contri<g ref="char:EOLhyphen"/>butions.</p>
+               <p>
+                  <hi>Lanbeder</hi> in the County of <hi>Cardigan,</hi> worth 50 <abbr>l.</abbr> a yeare, ſet out at 30 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>
+                  <hi>Nantgwulle</hi> worth 20 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out 10 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and contributions thereout paid, and the Pariſhoners could not have the ſame, though they offered 15 <abbr>l.</abbr> for the ſame, and to pay contributions beſides.</p>
+               <p>The Tythe of the Pariſh of <hi>Trednock</hi> valued at 60 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and ſo much offered, with good ſecurity for payment thereof, yet let out at 28 <abbr>l.</abbr> 
+                  <hi>per ann.</hi>
+               </p>
+               <p>The Impropriate Tythe of <hi>Llandilio Groſeny</hi> (late the Earl of <hi>Worceſters</hi>) worth 100 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> ſet out to <hi>Nich. Symons</hi> at 60 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> although the <hi>Petitioners</hi> offered 95 <abbr>l.</abbr> 
+                  <hi>per ann.</hi> paying contributions.</p>
+               <p>The Tythe of <hi>Llanvetherine,</hi> worth 100 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> &amp; the Pa<g ref="char:EOLhyphen"/>riſhioners offered 80 <abbr>l.</abbr> 
+                  <hi>per annum</hi> for it, yet let out at 60 <abbr>l.</abbr> 
+                  <hi>per annum</hi> to one <hi>Charles Godard,</hi> his wife being Mr. <hi>Cradocks</hi> neere Kinſwoman.</p>
+               <p>The Tythe of <hi>Greſmont</hi> worth 100 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and ſo offered by the Pariſhoners, but let out to a brother of one of the <hi>Commiſ<g ref="char:EOLhyphen"/>ſioners</hi> for <hi>Propagation</hi> at 10 <abbr>l.</abbr> 
+                  <hi>per annum,</hi> and ſo for the reſt and reſidue for all Pariſhes within the ſaid Counties, being every where ſet out at undervalues.</p>
+               <p> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, the <hi>Petitioners</hi> will prove that the ſaid Tythes and Premiſes have not been poſted up, and publickly expoſed to Farme to the Pariſhoners, and particular owners and others that would have given moſt for the ſame, as is uſuall in Improving and advancing other Rents and publique Revenues, diſpoſable by the <hi>Parliament,</hi> and others Autho<g ref="char:EOLhyphen"/>rized by them.</p>
+               <p n="3">3. By letting the ſame to Friends, Kindred, Creatures and alliance of the Sequeſtrators and others intruſted, with the letting
+<pb n="29" facs="tcp:94444:20"/>
+thereof as ſome have been before particularly inſtanced by name, and divers others that might be named.</p>
+            </div>
+            <div n="7" type="head">
+               <head>The Seventh Generall HEAD.</head>
+               <argument>
+                  <p n="7">7. That for want of the due <hi>Execution</hi> of the ſaid <hi>Act,</hi> the <hi>Petitioners</hi> together with the <hi>Inhabitants</hi> endure a famine of the Word of God.]</p>
+               </argument>
+               <p>
+                  <label>More Particularly,</label>
+               </p>
+               <p n="1">1. By the ſcarſity of the perſons ſtipended, allowed and ap<g ref="char:EOLhyphen"/>pointed to preach and officiate.</p>
+               <p n="2">2. By allowing perſons to preach and officiate that have borne actuall Armes againſt the <hi>Parliament,</hi> and other ill affect<g ref="char:EOLhyphen"/>ed perſons to the <hi>Parliament,</hi> (viz.)</p>
+               <p>One <hi>Hugh Rogers</hi> of the County of <hi>Monmouth,</hi> who hath been in actuall Armes againſt the <hi>Parliament,</hi> and ſo continued whileſt the late King had any viſible ſtrength or intereſt in the Nation to protect him, and others of his Confederates of the ſame Principles; The ſaid <hi>Hugh Rogers</hi> being one that did for<g ref="char:EOLhyphen"/>merly revile and vilify the <hi>Parliament,</hi> and <hi>Army,</hi> and all the godly party and their proceedings.</p>
+               <p>That <hi>Robert Prichard</hi> Parſon of <hi>Neverne,</hi> hath during the late Warrs deſerted his habitation, joyned with the enemy, and acted with Captaine <hi>Edward Lloyd</hi> his Father in Law in Kid<g ref="char:EOLhyphen"/>welley Caſtle againſt the <hi>Parliament,</hi> and as it is generally be<g ref="char:EOLhyphen"/>lieved hath not yet ſubſcribed the Ingagement, yet allowed and beneficed.</p>
+               <p>That one <hi>Hughes</hi> of the County of <hi>Carmarthen,</hi> being a perſon diſaffected to the <hi>Parliament,</hi> and preſent Government, and one that joyned with the enemy in the late Rebellion of <hi>Poyer,</hi> &amp;c. againſt the <hi>Parliament,</hi> is permitted and allowed to preach and officiate, and holds one or two Benefices; whereas divers others that never bore Armes againſt the <hi>Parliament</hi> are eject<g ref="char:EOLhyphen"/>ed on very ſlender accompt, particularly Mr <hi>Nicholſon,</hi> M. <hi>Evans,</hi> Mr. <hi>Thomas,</hi> Mr. <hi>Powell,</hi> Mr. <hi>Hatley,</hi> Doctor <hi>Edwards,</hi> Mr. <hi>Griffith,</hi> and others.</p>
+               <p>
+                  <pb n="22" facs="tcp:94444:21"/>That one <hi>Thomas Price</hi> of the County of <hi>Cardigan</hi> was ſetled by the Biſhop ſince the reducing of that County to the obedience of the Parl. and one that hath kept an Alehouſe, and a great fre<g ref="char:EOLhyphen"/>quenter of Alehouſes.</p>
+               <div type="part">
+                  <argument>
+                     <p>3. The Inhabitants endure a famine of the Word of God, by reaſon ſeverall other perſons now imployed and ſtipended to preach and officiate that are deboyſt, drunken perſons, ſcandalous in their lives and converſations.]</p>
+                  </argument>
+                  <p>
+                     <hi>More particularly,</hi>
+                  </p>
+                  <p>
+                     <hi>Thomas Field</hi> of the County of <hi>Penbroke, John Phillips</hi> of the ſame, <hi>David Evans</hi> of the County of <hi>Cardigan, William Jones</hi> of the County of <hi>Brecon, William Jones</hi> of the County of <hi>Monmouth,</hi> and ſeverall others that might be inſtanced, inſomuch that the Inhabitants are much diſcouraged to repaire to their meetings and exerciſes.</p>
+               </div>
+               <div type="part">
+                  <argument>
+                     <p>4. The Inhabitants indure <hi>a Famine of the Word of God</hi> by rea<g ref="char:EOLhyphen"/>ſon of ſeverall illiterate perſons that are of different opi<g ref="char:EOLhyphen"/>nions, that doe teach and officiate, cauſing great rents and diviſions among their Auditories, and ſeverall conteſtati<g ref="char:EOLhyphen"/>ons and diſturbances, to the endangering the peace of the County.</p>
+                  </argument>
+                  <p>
+                     <hi>More particularly,</hi>
+                  </p>
+                  <p>At <hi>Myniddv-ſtayne</hi> on Munday in Eaſter week laſt; at <hi>Bedways</hi> on Low-Eaſter Sunday; at <hi>Swanzey,</hi> at <hi>Merthir,</hi> and other pla<g ref="char:EOLhyphen"/>ces: at ſome of which differences and diſturbances there have been ſeverall ſwords drawne, and ſome hurt, and the Inhabitants put to a great feare, leſt theſe differences doe grow wider, to the endangering of the publique peace of the Country.</p>
+               </div>
+               <div type="part">
+                  <argument>
+                     <p>By which means the Inhabitants are very much diſheartned and diſcouraged from comming to their Meetings, which are ſo remote and uncertaine, that the aged, lame, impotent, and poo<g ref="char:EOLhyphen"/>rer ſort that are not provided with horſes, cannot, and many thouſands know not where or how to come to thoſe places where they exerciſe their meetings, being ſometimes ten, ſome<g ref="char:EOLhyphen"/>times twenty miles, and ſometimes more from ſome parts of a County, and one while in one County and another while in ano<g ref="char:EOLhyphen"/>ther County, and but very few in any one place conſtant: So that a man on a Lords day may ride twenty miles through a
+<pb facs="tcp:94444:21"/>
+county, and not ſee a Church doore open, ſupplyed with a con<g ref="char:EOLhyphen"/>ſtant, able, godly Miniſter.</p>
+                  </argument>
+                  <p>
+                     <hi>More particularly,</hi>
+                  </p>
+                  <p>In the county of <hi>Brecon,</hi> there are above fifty Pariſh Churches (beſides Chappels) that for above this twelve moneeh have not been ſupplyed with a conſtant preaching Miniſter, and at this ve<g ref="char:EOLhyphen"/>ry time on moſt Lords dayes there are above fifty Churches that are ſhut up and unſupplyed.</p>
+                  <p n="5">5. That in the Pariſhes of <hi>Llanvihangell Nantbrane, Llandi<g ref="char:EOLhyphen"/>lervane, Tralloigne,</hi> the Colledge of <hi>Brecon.</hi> (where formerly there was a Lecture once a fortnight) and many other Churches, the Word of God hath not been taught theſe two yeers.</p>
+                  <p>That the Towne of <hi>Brecon.</hi> being one of the chiefeſt Corpo<g ref="char:EOLhyphen"/>rations, and moſt populous in <hi>South wales,</hi> the Towne of <hi>Crick<g ref="char:EOLhyphen"/>howell,</hi> the Towne of the <hi>Hay</hi> and <hi>Buielt,</hi> being all Market towns in the ſaid County, there have not been any one conſtant able Teacher or Miniſter for two yeers laſt paſt. And divers other townes and pariſhes in <hi>South-wales</hi> which might be inſtanced, whereby the people are much expoſed, and the greater opportu<g ref="char:EOLhyphen"/>nity offered them to profane the Lords day, and ſpend the ſame in Alehouſes, and other leud places, to the great diſhonouring of God, and endangering the ſoules and conſciences of the Inhabi<g ref="char:EOLhyphen"/>tants thereof.</p>
+                  <p n="6">6. That the perſons named and intruſted for Approvers by the ſaid Act of <hi>Febr.</hi> 1649. doe live very remote one from another, ſome in <hi>North-wales,</hi> ſome in <hi>South-wales,</hi> and one of them in <hi>London,</hi> who being alſo Itinerant Teachers, which makes their reſidence unconſtant, they doe meet but ſeldome to receive, en<g ref="char:EOLhyphen"/>tertain, and incourage others to come in and offer themſelves to ſupply the rooms of the ejected Miniſters, without whoſe appro<g ref="char:EOLhyphen"/>bation none can be admitted. Whereas the Commiſſioners in order to ejecting of the Miniſters, and diſpoſing of the Tythes and premiſſes, doe ſit frequently by five, but by twelve for Ap<g ref="char:EOLhyphen"/>peals but very ſeldome.</p>
+               </div>
+            </div>
+            <div n="8" type="head">
+               <pb facs="tcp:94444:22"/>
+               <head>The Eight generall Head.</head>
+               <argument>
+                  <p n="8">8. That Children are not bred and educated in the Inſtructi<g ref="char:EOLhyphen"/>on and information of the <hi>Lord.</hi>]</p>
+               </argument>
+               <p>
+                  <hi>The Petitioners will make that good.</hi>
+                  <list>
+                     <item>1. By reaſon of few Oxthodox godly able Teachers and Miniſters are imployed to preach and officiate in each County.</item>
+                     <item>2. Becauſe the good worke of <hi>Catechizing</hi> Children, and In<g ref="char:EOLhyphen"/>ſtructing them in the information of the Lord is wholly laid a<g ref="char:EOLhyphen"/>ſide in all, or moſt Pariſhes and Counties.</item>
+                     <item>3. By reaſon ſo few godly <hi>Schoole-masters</hi> are allowed, and ſtipended for that purpoſe, and ſome of thoſe imployed and allowed of, are unfit for to undergoe, or be imployed in ſo great and weighty a buſineſſe.</item>
+                  </list>
+               </p>
+               <p>
+                  <label>More particularly,</label>
+
+                  <list>
+                     <item>One <hi>Phillip William,</hi> That is a young man of no competent learning for a <hi>Schoole-maſter,</hi> yet nevertheleſſe appointed head <hi>Schoole-maſter,</hi> in the Colledge of <hi>Brecon,</hi> being one of the chiefeſt Townes in <hi>South-wales,</hi> and that one <hi>Hugh Powell</hi> is his Uſher or Aſſiſtant (who indeed is the onely able man for lear<g ref="char:EOLhyphen"/>ning) being a known Papiſt, and one that hath formerly bred up many Children in Popery, to the griefe and diſcomforture of their Parents, yet in the face of Towne and Country allowed to officiate there.</item>
+                     <item>That one <hi>David Evans</hi> a ſtipended allowed <hi>Schoole-maſter,</hi> at New <hi>Radnor</hi> (being the Shire Towne of that County) is a drun<g ref="char:EOLhyphen"/>ken deboyſt man.</item>
+                     <item>
+                        <hi>Hugh Jones</hi> of the County of <hi>Glamorgan</hi> the like. Beſides divers others that might be inſtanced, whereby the Inhabitants are kept back, from ſending their Children to be trained up in Religion and Learning, by ſuch ill qualified Tutors.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="9" type="head">
+               <pb n="33" facs="tcp:94444:22"/>
+               <head>The Ninth Generall HEAD.</head>
+               <argument>
+                  <p n="9">9. That the Inhabitants cannot take notice of the <hi>Parliaments Acts, Edicts,</hi> and <hi>Proclamations,</hi> wherein their publique welfare, the liberty and ſafety of their perſons and eſtates are concerned.] <hi>viz.</hi>
+                  </p>
+               </argument>
+               <p n="1">1. For want of a convenient number of <hi>Miniſters</hi> in the re<g ref="char:EOLhyphen"/>ſpective Counties, by whom the ſame ought to be read and pub<g ref="char:EOLhyphen"/>liſhed to the reſpective Pariſhioners and Inhabitants.</p>
+               <p n="2">2. By reaſon that ſome of the Itinerants are ſo ignorant, that they cannot read the <hi>Act</hi> of <hi>Parliament</hi> (for inſtance.) <hi>When</hi> the <hi>Act</hi> of <hi>Parliament</hi> for publick Thanksgiving for the Victory ob<g ref="char:EOLhyphen"/>tained at <hi>Worceſter,</hi> againſt the late King of <hi>Scots,</hi> was ſent down to the County of <hi>Glamorgan,</hi> to be publiquely read in all Churches and Chappells, to the Inhabitants, the Act being de<g ref="char:EOLhyphen"/>livered to one <hi>Walter Williams</hi> to be read on that day, the ſaid <hi>Walter Williams</hi> anſwered that he could not read the ſame.</p>
+            </div>
+            <div type="summary">
+               <head>An Abstract of the Particulars.</head>
+               <p>
+                  <list>
+                     <item>
+                        <label>1. <hi>MIniſters</hi> ejected in the ſeven Counties;</label>
+                        <hi>237</hi> and upwards.  Beſides Curats and Stipendaries, imployed to preach and officiate for Pluraliſts and Impropriators Chappells of caſe, <hi>&amp;c.</hi>
+                     </item>
+                     <item>
+                        <label>2. The number of the Pariſhes within the ſaid ſeven Coun<g ref="char:EOLhyphen"/>ties.</label>
+                        <hi>700</hi> and odd.</item>
+                     <item>
+                        <label>3. The number of the preſent Stipended,</label>
+Not above <hi>100.</hi> allowed <hi>Ministers</hi> to ſupply thoſe Pariſhes.</item>
+                  </list>
+
+So that there are <hi>600</hi> Pariſhes unſupplied.
+
+<list>
+                     <item>
+                        <label>4. The number of the preſent allowed,</label>
+Not above <hi>18.</hi>  Stipended <hi>Schoole-Maſters.</hi>
+                     </item>
+                     <item>
+                        <label>5. The value of the Tythes, <hi>&amp;c.</hi> received for the maintenance of <hi>Miniſters</hi> and <hi>Schoole-maſters.</hi>
+                        </label>
+                        <hi>20000 <abbr>l.</abbr>
+                        </hi> per annum, and upwards.</item>
+                     <item>6. That ſeverall of the <hi>Miniſters</hi> and <hi>Schoole-masters</hi> now Stipended, are drunken deboyſt perſons, ſome illiterate, others
+<pb n="34" facs="tcp:94444:23"/>
+that are Malignant, and bore Armes againſt the <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+                     </item>
+                     <item>7. The Tythes, <hi>&amp;c.</hi> undervalued in all Pariſhes within the 7. Counties and the Commiſſioners accompt onely for two yeares but of—19000 <abbr>l.</abbr> 
+                        <hi>or there abouts.</hi>
+                     </item>
+                  </list>
+Which is leſſe than the <hi>Petitioners</hi> Charge and Offer by—20000 <abbr>l.</abbr> 
+                  <hi>or thereabouts.</hi>
+               </p>
+               <p>Theſe were the Particulars faithfully tranſcribed, and Copied out of the Originall; which were put in and lodged with the <hi>Committee.</hi>
+               </p>
+               <p>And becauſe there is diſcovered an effectuall <hi>Letter,</hi> under Mr. <hi>William Watkin's</hi> own hand (being Regiſter to the <hi>Commiſ<g ref="char:EOLhyphen"/>ſioners</hi> in <hi>Brecknock-ſhire,</hi> and <hi>Radnor-ſhire,</hi> Clerk of the Peace under Major Gen. <hi>Harriſon,</hi> within the ſaid County of <hi>Breck<g ref="char:EOLhyphen"/>nock,</hi> And lately ſervant to Colonel <hi>Phillip Jones,</hi> who wrote all the <hi>Commiſſioners Orders;</hi> And had ſpeciall influence upon the <hi>Sequeſtrators</hi> and their <hi>Agents, Received the Tithes of Bochwrd</hi> to his owne uſe, and ſet out the <hi>Vicaridge</hi> of <hi>Glasbury,</hi> being worth a 100 <abbr>l.</abbr> a yeare to his <hi>Carpenter</hi> for 50 <abbr>l.</abbr> a yeare,) which he wrote to Mr. <hi>Jenkins Jones,</hi> one of the <hi>Itinerants</hi> in <hi>Breck<g ref="char:EOLhyphen"/>nock-ſhire;</hi> I could not pretermit to inſert the ſame to common view.</p>
+               <floatingText type="letter">
+                  <body>
+                     <head>A Copy of Mr. <hi>William Watkins LETTER,</hi> to Mr. <hi>Jenkin Jones.</hi>
+                     </head>
+                     <opener>
+                        <salute>Dear SIR,</salute>
+                     </opener>
+                     <p>THe twelve pound may be thus got. The Sequeſtrators is to take them up from Mr. <hi>Lewis,</hi> and when the money is Received, you may ſafely pay them, where you
+<pb n="35" facs="tcp:94444:23"/>
+pleaſe, becauſe it is ſuch an <hi>Arrere</hi> that the Treaſurer knoweth not of, for it lieth not in Charge before him.</p>
+                     <p>If Mr. <hi>Lewis</hi> denyeth what hee confeſſed, Let the Se<g ref="char:EOLhyphen"/>queſtrator ſhew him the incloſed Note.</p>
+                     <closer>
+                        <dateline>
+                           <date>
+                              <hi>8. Novemb. 1651.</hi>
+                           </date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>For Mr. <hi>William Jones,</hi> and Captaine <hi>Morgan</hi> Sequeſtrators.</head>
+                     <p>IT is concieved that there is three or foure yeares Rent due, upon <hi>Meredeth Lewis</hi> 
+                        <abbr>Eſq</abbr> for the Prebendary of <hi>Llanvthul,</hi> He confeſſed to be due for one yeare, and told ſo to me about a moneth ſince,</p>
+                     <closer>
+                        <signed>
+                           <hi>Your Servant,</hi> William Watkins.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>And this was added in the Perclauſe of the Letter to Mr. <hi>Jenkins Jones.</hi>
+                  <floatingText type="letter">
+                     <body>
+                        <p>IF that will not doe, then let the Sequeſtrators demand a ſight of his Acquittances ſince the yeare <hi>1642.</hi> And then you ſhall find him out,</p>
+                        <closer>
+                           <signed>Your Servant,<hi>Will. Watkins.</hi> 
+                           </signed>
+                           <dateline>
+                              <date>
+                                 <hi>8. Novemb. 1651.</hi>
+                              </date>
+                           </dateline>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>
+                  <pb n="36" facs="tcp:94444:24"/>Here is Mr. <hi>William Watkins</hi> his Directions to Mr. <hi>Jenken Jones,</hi> to get <hi>Twelve pounds</hi>] and that hee diſpoſe of it as hee pleaſe] being an Arrere, which the Treaſurer knew not of; And hee gives the Reaſon for it, <hi>For it lay not in charge before him.</hi>] And left Mr. <hi>Lewes</hi> ſhould any way eſcape the pay<g ref="char:EOLhyphen"/>ment, hee betrayes the Gentlemans confeſſion to him, and guides the <hi>Sequeſtrators</hi> to finde him out by former Acquit<g ref="char:EOLhyphen"/>tances.</p>
+               <p>Here is a pretty Trick indeed, who could wiſh a neater con<g ref="char:EOLhyphen"/>trivance to finde out Mr. <hi>William Watkins,</hi> or a more evident <hi>Demonſtration,</hi> to deſcry to publike view, How a man bearing ſuch Offices, and ſo ſpecially intruſted in the Common wealth, doth thus notoriouſly betray the truſt committed unto him? But (<hi>Ex ungu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Leonem)</hi> I leave to the judgement of all con<g ref="char:EOLhyphen"/>ſcientious Men to underſtand how plaine the <hi>State</hi> hath beene defrauded by ſuch Plots; And what ſecret Correſpondencies there are betweene Captaine <hi>Jenkin Jones,</hi> and his Lieutenant, Mr. <hi>William Watkins</hi> to advance their Eſtates in the way of gain-full godlineſſe, appeares by their buſineſſe in the County, and City of <hi>Gloucester,</hi> where above a 100 Horſe and Armes were rayſed (at the late comming in of the King of <hi>Scots</hi> to <hi>Worceſter</hi>) which they both mounted with their owne Men, and though they promiſed to reſtore the ſame againe upon their returne to the owners, yet they carried Horſe and Armes to <hi>Brecknockſhire,</hi> and never reſtored them back, which is worth his Highneſſe con<g ref="char:EOLhyphen"/>ſideration.</p>
+               <p>And ſo I proceed to the laſt part, which is, The <hi>Commiſſioners</hi> Anſwer, and the <hi>Petitioners</hi> Reply.</p>
+            </div>
+         </div>
+         <div n="3" type="part">
+            <pb n="37" facs="tcp:94444:24"/>
+            <head>
+               <hi>III.</hi> The <hi>ANSVVER</hi> of <hi>Col.</hi> Phillipp Jones. Buſhy Manſell. John Price. Rowland Dawkins. Edward Stradling. John Nicholas. James Phillips. Thomas Watkins. Robert Jones. Sampſon Lort. Jenkin Francklyn. Rich. King. Rice Williams. William Blethin. John Daniell. John Herbert. John Bowen. Chriſtopher Catchmay, <hi>Eſquires. Commiſſioners for</hi> Propagation of the Goſpell in <hi>Wales,</hi> and the Reply of the <hi>Petitioners</hi> of the Six Counties of South Wales, <hi>&amp; County of Monmouth thereunto, lodged with the Committee for Plun<g ref="char:EOLhyphen"/>dered Miniſters the 20 of</hi> Auguſt. <hi>1652. and there Remaining of Record.</hi>
+            </head>
+            <div type="answers_and_replies">
+               <head>The Commiſsi<g ref="char:EOLhyphen"/>oners Anſwer to the Petitioners particular Heads. <lb/>
+The Petitioners Re<g ref="char:EOLhyphen"/>ply, to the Commiſsio<g ref="char:EOLhyphen"/>ners Anſwer.</head>
+               <div n="1" type="answer">
+                  <head>1. Anſ.</head>
+                  <p>THat there were none ejected, but in obedience to the Act, and upon cleare grounds, and thoſe that con<g ref="char:EOLhyphen"/>ceaved themſelves unjuſtly dealt with had their free courſe
+<pb n="38" facs="tcp:94444:25"/>
+of appeale to this <hi>Committee,</hi> wheather came one from <hi>Mon<g ref="char:EOLhyphen"/>mouthſhire,</hi> but had the judgement againſt him affirm<g ref="char:EOLhyphen"/>ed, though he were in our opi<g ref="char:EOLhyphen"/>nion as meet for favour as any we proceeded againſt.</p>
+               </div>
+               <pb n="37" facs="tcp:94444:24"/>
+               <div n="1" type="reply">
+                  <head>
+                     <hi>1.</hi> Rep.</head>
+                  <p>THat there were divers eject<g ref="char:EOLhyphen"/>ed contrary to the Act without due ſummons, and exa<g ref="char:EOLhyphen"/>mination of Witneſſes, and Co<g ref="char:EOLhyphen"/>pies of Orders, Depoſitions, Pa<g ref="char:EOLhyphen"/>pers and other proceedings de<g ref="char:EOLhyphen"/>nied
+<pb n="38" facs="tcp:94444:25"/>
+them, whereby they were barred of their free courſe for ap<g ref="char:EOLhyphen"/>peale to this Honourable Com<g ref="char:EOLhyphen"/>mittee; And if the Commiſſi<g ref="char:EOLhyphen"/>oners ſhewed ſo little favour un<g ref="char:EOLhyphen"/>to the one that did appeale (who is nameleſſe) though he in their own judgement and opinion was as meet for favour as almoſt any they proceeded againſt (as by their Anſwer appeares) what could the reſt expect? And there<g ref="char:EOLhyphen"/>fore no marvaile if they appealed not to 12, where 5 of thoſe that firſt gave judgement againſt them, ſit to confirme the ſame. And ſo much the rather, becauſe ſome of the Commiſſioners have publiquely declared againſt the very calling and function of the <hi>Miniſtery.</hi>
+                  </p>
+               </div>
+               <div n="2" type="answer">
+                  <head>2. Anſwer</head>
+                  <p>There are yet remaining unejected <hi>(127)</hi> and upwards of the old <hi>Miniſters.</hi>
+                  </p>
+               </div>
+               <div n="2" type="reply">
+                  <head>
+                     <hi>2.</hi> Reply.</head>
+                  <p>That there are not unejected of the old <hi>Miniſters,</hi> the number of one hundred twenty ſeven as by the Anſwer is alleadged: And that many of thoſe that are left unjected, have beene greater Delinquents againſt the <hi>Parliament,</hi> and more ſcandalous in their lives and converſations, then many of thoſe Ejected.</p>
+               </div>
+               <div type="answer">
+                  <head>Comomiſ. Anſ. to the 2. Head. 1. <hi>Anſ.</hi>
+                  </head>
+                  <p>That we have not refuſed nor been wanting to give in<g ref="char:EOLhyphen"/>couragement to any godly man fitted for the <hi>Miniſtery</hi> that was tendred unto us.</p>
+               </div>
+               <div type="reply">
+                  <head>Pet. Reply.</head>
+                  <p>The <hi>Petitioners</hi> humbly con<g ref="char:EOLhyphen"/>ceive that the Commiſſioners have not diſcharged their duties (in not refuſing, and not being wanting to give incouragement to any godly man fitted for the Miniſtery that was tendered them) (admitting that to be true.) But rather it was their duty to provide ſuch godly able men, as well as to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t thoſe that were unworthy, according to the truſt in them repoſed by the <hi>Parliament.</hi> And the <hi>Petitioners</hi> do affirme that the Commſſioners have refuſed and rejected ſome
+<pb n="39" facs="tcp:94444:25"/>
+that have been approved by this Honourable Committee par<g ref="char:EOLhyphen"/>ticularly Mr. <hi>Collier,</hi> Mr. <hi>Bywater</hi> and others; And the per<g ref="char:EOLhyphen"/>ſons named for approved in the Act (being Itinerants, and li<g ref="char:EOLhyphen"/>ving remote one from another) meet but very ſeldome to en<g ref="char:EOLhyphen"/>tertaine and incourage godly men to tender themſelves unto them; Wherers all poſſible diligence is uſed in ejection of the <hi>Miniſters,</hi> and diſpoſing of the Tythes, And have ſilenced Mr. <hi>Matthew Williams</hi> a godly able man, that preached <hi>gratis</hi> and had ſo done for many yeares before, not expecting any tem<g ref="char:EOLhyphen"/>porall reward, the Commiſſioners having no proofes of Delin<g ref="char:EOLhyphen"/>quency or ſcandall againſt him, ſo that it is more then apparent their deſigne tends to the extirpation both of the <hi>Miniſters</hi> and <hi>Miniſtery.</hi>
+                  </p>
+               </div>
+               <div n="2" type="answer">
+                  <head>2 Anſwer.</head>
+                  <p>That wee have by ſpeciall Meſſengers, Letters, and by all other means laboured with the Churches of Chriſt in <hi>New England, London,</hi> and the <g ref="char:V">Ʋ</g>niverſities, for a ſupply, and through the goodneſſe of God have already procured ſeaven<g ref="char:EOLhyphen"/>ty five: beſides the <hi>(127)</hi> above mentioned left uneject<g ref="char:EOLhyphen"/>ed) approved able <hi>Miniſters</hi> to preach the Gospell in thoſe parts, that are moſt <hi>Engliſh,</hi> beſides about <hi>(60)</hi> godly gifted men, that by the advice of the <hi>Miniſters,</hi> named in the Act are appointed to preach to the <hi>Welch.</hi> And there are about <hi>(80)</hi> more with us, which go about preaching the Gospell with great ſucceſſe in the <hi>Welſh</hi> Tongue. But taking no maintenance from the tythes
+<pb n="40" facs="tcp:94444:26"/>
+we forbeare to mention them. And though there are not as many able Teachers as wee could wiſh, and are in a hope<g ref="char:EOLhyphen"/>full way of procuring, yet we may with ſafety ſay, the leaſt County hath many more then by the <hi>Petition</hi> is ſuggeſted.</p>
+               </div>
+               <div n="2" type="reply">
+                  <pb n="39" facs="tcp:94444:25"/>
+                  <head>
+                     <hi>2</hi> Reply.</head>
+                  <p>That the <hi>Petitioners</hi> humbly conceive that the Commiſſioners (had they been ſo pleaſed) might have found divers perſons better qualified, and more fit for the worke of the <hi>Miniſtery,</hi> then many of thoſe by them imploy<g ref="char:EOLhyphen"/>ed not onely in <hi>New England, London,</hi> and the Univerſities, but neerer home, but that the Tithes and Premiſſes were of no ſmall advantage to the Commiſſioners Agents, and the Farmers thereof. And as for the (75) 60) and 80) <hi>Ministers</hi> and <hi>Teachers</hi> alleaged to be now imployed, and ſtipen<g ref="char:EOLhyphen"/>ded, beſides the (127) preten<g ref="char:EOLhyphen"/>ded to be unejected, which in all make (342) The <hi>Petitioners</hi> do Av<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rre, and will make it appeare, if it pleaſe this Honourable Com<g ref="char:EOLhyphen"/>mittee to give way, that there are not above (100) orthodox
+<pb n="40" facs="tcp:94444:26"/>
+godly able <hi>Miniſters</hi> (if halfe ſo many) ſtipended, allowed and ap<g ref="char:EOLhyphen"/>proved of according to the Act, to ſupply the 7 Counties, con<g ref="char:EOLhyphen"/>ſiſting of (700) Pariſhes, And as for the Commiſſioners hopes of further ſupply of <hi>Miniſters</hi> for the future, The <hi>Petitioners</hi> have little cauſe to hope, or believe any better performance for the time to come; ſince their pro<g ref="char:EOLhyphen"/>ceedings for nigh (3) years hath taken ſo ſmall effect.</p>
+               </div>
+               <div n="3" type="answer">
+                  <head>The Commiſſioners 3 Anſ.</head>
+                  <p>That we have endeavoured all we could to procure godly <hi>Schoole-maſters</hi> from the <g ref="char:V">Ʋ</g>niverſity, <hi>&amp;c.</hi> and have ſet<g ref="char:EOLhyphen"/>led, and doe maintaine <hi>(29)</hi> which with thoſe before in be<g ref="char:EOLhyphen"/>ing make up <hi>(50)</hi> And are dispoſed into Market Townes, and other places moſt conve<g ref="char:EOLhyphen"/>nient within the ſaid Coun<g ref="char:EOLhyphen"/>ties.</p>
+               </div>
+               <div n="3" type="reply">
+                  <head>The Petitioners <hi>3.</hi> Reply.</head>
+                  <p>That whereas the Commiſſi<g ref="char:EOLhyphen"/>oners pretend there are (50) god<g ref="char:EOLhyphen"/>ly <hi>Schoole-maſters</hi> ſettled and maintained by them in the ſeven Counties; The <hi>Petitioners</hi> doe averre and will make it appeare there are not above (18) godly able <hi>Schoole-maſters</hi> ſtipended, allowed, and approved of, ac<g ref="char:EOLhyphen"/>cording to the Act within the ſaid 7 Counties, and ſeverall o<g ref="char:EOLhyphen"/>thers drunken deboiſt perſons, ſcandalous in their lives and converſations, and one of them a Papiſt if not a Jeſuit imployed aſſiſtant or Uſher in the Towne of <hi>Brecon,</hi> and others ill affected perſons to the <hi>Parliament,</hi> and preſent Government, as by their particulars more fully appear<g ref="char:EOLhyphen"/>eth; And that ſeverall Market Townes in the reſpective Coun<g ref="char:EOLhyphen"/>ties are unſupplied with able Schoole-maſters, to the decay of Religion and Learning, <hi>viz. Chrickhowell, Hay, Builte, Carmar<g ref="char:EOLhyphen"/>then,</hi> and other places.</p>
+               </div>
+               <div n="4" type="answer">
+                  <head>The Commiſſioners 4. Anſ.</head>
+                  <p>That there are above <hi>478</hi> Pariſhes impropriated Parſon<g ref="char:EOLhyphen"/>ſonages and Vicaridges with<g ref="char:EOLhyphen"/>in
+<pb facs="tcp:94444:26"/>
+in the ſaid Counties unſequeſt<g ref="char:EOLhyphen"/>red <hi>(2.)</hi> That for thoſe that have been ſequeſtred we have beene exceeding carefull to chooſe and intruſt for each yeare honest, and reaſonable men for Collectors in each County, and one Treaſurer for the whole, that the ac<g ref="char:EOLhyphen"/>compts might be in the cleareſt way to be delivered upon the determination of the Act, or ſooner if called for: As to the value in the <hi>Petition</hi> menti<g ref="char:EOLhyphen"/>oned, though we tooke great care to appoint honest able men Agents, for the letting and ſetting in each County. We finde they could not raiſe the whole Revenue of the Se<g ref="char:EOLhyphen"/>queſtred Tithes of the ſeven Counties to, but <hi>(9518 <abbr>l.</abbr>)</hi> (<hi>5 <abbr>s.</abbr>
+                     </hi>) <hi>8 <abbr>d.</abbr>
+                     </hi>) for the yeare <hi>(1650.)</hi> And for the yeare <hi>1651.)</hi> but <hi>(10418) 5 <abbr>s.</abbr>) 2 <abbr>d.</abbr>)</hi> And humbly conceive that more thereof could not be then made, out of which there is paid to <hi>Miniſters, Schoole-maſters,</hi> and others, accord<g ref="char:EOLhyphen"/>ing to the intent of the Act <hi>for Propagating of the Go<g ref="char:EOLhyphen"/>ſpell,</hi> in the yeare <hi>1650</hi> the ſum of <hi>(7923 <abbr>l.</abbr>) 13 <abbr>s.</abbr>) 5 <abbr>d.</abbr>)</hi> And for the yeare <hi>1651</hi> in part the ſum of <hi>(5894 <abbr>l.</abbr>) 9 <abbr>s.</abbr>) 10 <abbr>d.</abbr>)</hi> the remainder where<g ref="char:EOLhyphen"/>of being for the yeare <hi>1650:</hi>
+                     <pb n="42" facs="tcp:94444:27"/>
+the ſum of (<hi>1594 <abbr>l.</abbr>) 12 <abbr>s.</abbr>) 3 <abbr>d.</abbr>)</hi> and for the yeare <hi>1651) 4523 <abbr>l.</abbr>) 15 <abbr>s.</abbr>) 4 <abbr>d</abbr>
+                     </hi>) reſt<g ref="char:EOLhyphen"/>eth in the Tenants hands, ſo that the <hi>Miniſters</hi> Probati<g ref="char:EOLhyphen"/>oners are not paid up their full ſailares, for the yeare <hi>1651.</hi> Nor ſome for the yeare <hi>1650.</hi> And the Fifts and Contribu<g ref="char:EOLhyphen"/>tions not fully knowne, nor allowed.</p>
+               </div>
+               <div n="4" type="reply">
+                  <pb n="40" facs="tcp:94444:26"/>
+                  <head>Petitioners <hi>4</hi> Reply.</head>
+                  <p>The <hi>Petitioners</hi> doe deny there are 478 Pariſhes impropriated, <hi>&amp;c.</hi> unſequeſtred, as by the
+<pb facs="tcp:94444:26"/>
+Commiſſioners anſwer is aledg<g ref="char:EOLhyphen"/>ed; But acknowledge the Com<g ref="char:EOLhyphen"/>miſſioners have been carefull in imploying Collectors, Treaſurers and other Agents, in the re<g ref="char:EOLhyphen"/>ſpective Counties to let, ſet, re<g ref="char:EOLhyphen"/>ceive and diſpoſe of the Tythes and Premiſes, who have ſince their imployments, improved their own Eſtates ſo well, that in ſo ſhort a time many of them have become great purchaſers; And it appeares by the Commiſ<g ref="char:EOLhyphen"/>ſioners owne Anſwer, that they make accompt to the <hi>Parliament</hi> but for (19936 <abbr>l.</abbr>) 10 <abbr>s</abbr>) 10 <abbr>d</abbr>) for the yeares 1650, and 1651, although the <hi>Petitioners</hi> doe af<g ref="char:EOLhyphen"/>firme that the Tythes, and Pre<g ref="char:EOLhyphen"/>miſes within the ſaid 7 Counties are annually worth 20000 <abbr>l.</abbr> and have, and doe hereby offer ſo much for the ſame, and what hath beene paid out of the Pre<g ref="char:EOLhyphen"/>miſes to <hi>Miniſters,</hi> and <hi>Schoole-maſters,</hi> will more fully appeare by the Commiſſioners particular accompt, which the <hi>Petitioners</hi> have not yet ſeene, but pray a ſight and Copy thereof, and li<g ref="char:EOLhyphen"/>berty to ſurcharge the ſame. And for the ſum of 1594 <abbr>l.</abbr> 12 <abbr>s.</abbr> 3 <abbr>d</abbr>) for the yeare 1650. and 4523 <abbr>l.</abbr> 15 <abbr>s.</abbr> 4 <abbr>d.</abbr> for 1651. that reſteth (as they ſay) in the Tenants hands in arreare. The <hi>Petitio<g ref="char:EOLhyphen"/>ners</hi> doe averre, that if any be unpaid, it reſteth in the hands of
+<pb n="42" facs="tcp:94444:27"/>
+ſuch as are friends to the Com<g ref="char:EOLhyphen"/>miſſioners, or their Agents, who for reaſons beſt knowne to themſelves, did not uſe their wonted rigidneſſe in Collecting, and Receiving the ſame, as hath been ſhewne to others of further Relation; who have beene forced to pay the treble values of their Tithes, and how well the Commiſſioners have diſpo<g ref="char:EOLhyphen"/>ſed of the vaſt revenue aforeſaid, may appeare by their Anſwer annexed, wherein they complaine of want of monies to pay the <hi>Miniſters</hi> approbationers; who are not paid up their full Salaries for the yeare 1650. nor ſome for the yeare 1651. though on due examination it will appeare, that ſome of the Itinerants have not above 10 or 20 <abbr>l.</abbr> 
+                     <hi>per annum.</hi> And the fifts and contributions not fully knowne, or allowed as by the Commiſſioners Anſwer is ingeniouſly con<g ref="char:EOLhyphen"/>feſſed; Whereas one of the Commiſſioners, Major Generall <hi>Harriſon,</hi> not long ſince openly confeſſed before your Ho<g ref="char:EOLhyphen"/>nours, that there was a Banke of money in <hi>South-wales;</hi> And when the Fifts and Contributions are paid, and allowed what will accrue to the <hi>State</hi> is left to your Honours conſideration. And what hope the <hi>Petitioners</hi> have of a future ſupply of <hi>Mi<g ref="char:EOLhyphen"/>nisters</hi> and <hi>Schools-Masters,</hi> for the 600 Pariſhes that are all deſtiture of <hi>Miniſters,</hi> according to the Commiſſioners pro<g ref="char:EOLhyphen"/>miſe in their precedent Anſwer Particular (2) when in this particular part of their Anſwer, relating to accompts, they complaine of wanting Monies to pay theſe few, and in<g ref="char:EOLhyphen"/>conſiderate number of <hi>Miniſters,</hi> and <hi>Schoole-Maſters</hi> now imployed, eſpecially when the Fifts and Contributions are paid and allowed; By all which it may appeare to this Honourable Committee, the truth of the <hi>Petition,</hi> in relation to the aforeſaid Charge.</p>
+               </div>
+               <div n="5" type="answer">
+                  <pb n="43" facs="tcp:94444:27"/>
+                  <head>The Commiſſioners 5. Anſwer.</head>
+                  <p>To ſay nothing of the <hi>127</hi> unejected, we have taken care to disperſe the <hi>Miniſters</hi> a<g ref="char:EOLhyphen"/>bove mentioned, paid out of the Treaſury over the Coun<g ref="char:EOLhyphen"/>ties as equally, and conveni<g ref="char:EOLhyphen"/>ently as wee might with due respect had to the carrying on the worke of God, and the particular inclination of the Peoples ſpirits, and through ſingular mercy to the Word of of God<g ref="char:punc">▪</g> hath in theſe laſt yeares beene more frequently, and with more ſucceſſe preach<g ref="char:EOLhyphen"/>ed then in many Ages before, whereunto wee doubt not but thoſe that have lately travel<g ref="char:EOLhyphen"/>ed through this poore Country, will beare witneſſe.</p>
+               </div>
+               <div n="5" type="reply">
+                  <head>The Petitioners <hi>5.</hi> Reply.</head>
+                  <p>That they have ſo diſperſed them, that a man may ride 20 miles together on the Lords day, and not finde one doore open, ſupplied with a conſtant able godly <hi>Miniſter,</hi> and how the Worke and Word of God hath beene propagated in thoſe parts the two laſt yeares, the <hi>Petiti<g ref="char:EOLhyphen"/>oners</hi> doe appeale to all indiffer<g ref="char:EOLhyphen"/>ent unbiaſſed Men, and eſpeci<g ref="char:EOLhyphen"/>ally to the Judges and other publique Officers, who are and have been imployed by the <hi>State</hi> there, and can give a further re<g ref="char:EOLhyphen"/>lation of the ſad condition of thoſe Countries, and what rents, diviſions, and diſturbances of the publique peace have beene made in thoſe parts, ſince the Itina<g ref="char:EOLhyphen"/>naries were imployed there to the diſtraction of the minds, and conſciences of the people.</p>
+               </div>
+               <div n="6" type="answer">
+                  <head>The Commiſſioners 6. Anſwer.</head>
+                  <p>We have been very carefull that it might not be ſo, but where it otherwiſe happened it was upon ſome of theſe inſuing reaſons.</p>
+                  <p n="1">
+                     <hi>1.</hi> That moſt part of the yeare <hi>1650.</hi> and in ſome pla<g ref="char:EOLhyphen"/>ces much of the yeare <hi>1651.</hi> was ſpent and moſt of the pro<g ref="char:EOLhyphen"/>fits rayſed by the ſcandalous
+<pb n="44" facs="tcp:94444:28"/>
+pretended <hi>Miniſters</hi> before they were ejected.</p>
+                  <p n="2">
+                     <hi>2.</hi> For better ſatisfaction of the Countrey and carrying on the Worke of the Lord without offence to the people, we tooke order that the Se<g ref="char:EOLhyphen"/>queſtred Tythes <hi>&amp;c.</hi> ſhould be let to the Pariſhioners, that every man might enjoy what came from his owne Lands, at ſomewhat a lower rate, in caſe they would take it, then to any particular Farmour.</p>
+                  <p n="3">
+                     <hi>3.</hi> In ſome caſes where the ejected <hi>Miniſter</hi> was much in debt, and had a great family, and no other Eſtate, and had Fifts due to his Wife, hee or ſome of them was admitted Tennant at ſomewhat an un<g ref="char:EOLhyphen"/>dervalue, to anſwer theſe con<g ref="char:EOLhyphen"/>ſiderations.</p>
+                  <p n="4">
+                     <hi>4.</hi> Vicaridges that were heretofore in reſpect of <hi>Eaſter</hi>-booke offering, <hi>&amp;c.</hi> received of the Papiſts conſiderable are now little worth.</p>
+                  <p n="5">
+                     <hi>5.</hi> The conſiderations had to Taxes, Reparations, and other incident charges, beſides the generall diſguſt against Tythes, and the diſturbance put upon our Countrey by ma<g ref="char:EOLhyphen"/>lignants at home, at the least Invaſion of the Enemy, and ſince by the promoters of the <hi>Petition,</hi> by reaſon of all which
+<pb n="45" facs="tcp:94444:28"/>
+wee have found it no ſmall difficulty, to bring them to the rate they are at.</p>
+               </div>
+               <div n="6" type="reply">
+                  <pb n="43" facs="tcp:94444:27"/>
+                  <head>The Petitioners <hi>6.</hi> Reply.</head>
+                  <p n="1">1. How carefull they have beene therein appeares by the particulars preferred to your Honours by the <hi>Petitioners,</hi> which they are ready to prove, who doe further affirme that a great number of the <hi>Miniſters</hi> were ejected by the Committees of Sequeſtration, in the reſpective Counties in the yeares (1647)
+<pb n="44" facs="tcp:94444:28"/>
+1648. and part of 1649. which lay under Sequeſtration, when the Commiſſioners for propa<g ref="char:EOLhyphen"/>gation were impowered by the ſaid Act, who acted ſo vigo<g ref="char:EOLhyphen"/>ruſly in the yeare 1650. that all or moſt of the Tithes and Pre<g ref="char:EOLhyphen"/>miſſes of the value aforeſaid were Sequeſtred in that yeare, who have or might have received the ſame.</p>
+                  <p n="2">2. To this the <hi>Petitioners</hi> ſay, That ſince the exhibiting of their <hi>Petition,</hi> the Commiſſioners have made a formall Order, that the Inhabitants ſhould farme their owne Tithes for the enſuing har<g ref="char:EOLhyphen"/>veſt, thinking thereby to pacifie the people for the former indi<g ref="char:EOLhyphen"/>rect carriages, and to prevent their proſecution of the <hi>Petition;</hi> But how well ever this new ſal<g ref="char:EOLhyphen"/>ver hath wrought, and beene perſued can be teſtified by thou<g ref="char:EOLhyphen"/>ſands of the poore Inhabitants, who have received little or no benefit thereby, the Commiſſio<g ref="char:EOLhyphen"/>ners Agents ſtill farming their Tithes to their Friends, and Creatures at their former under<g ref="char:EOLhyphen"/>vallues.</p>
+                  <p n="3">3. That neither the <hi>Miniſters</hi> debts, nor yet the charge of Children, nor Family would induce the Commiſſioners, and their Agents to grant reaſonable bargaines to them, nor yet their Fifts according to the Act: un<g ref="char:EOLhyphen"/>leſſe
+<pb n="45" facs="tcp:94444:28"/>
+to ſuch of them that were eſpecially befriended: and ſome could not have their Fifts, except they ingaged to forbeare the execution of their <hi>Miniſtery,</hi> and ſome had ſpeciall allowance for not preaching.</p>
+                  <p n="4">4. That although the Inhabitants have little encouragement, or any reaſon to pay any Tithes, or any Offerings at all ſave onely in Obedience to the <hi>Parliaments</hi> Authority, having ſo little ſpirituall comfort adminiſtred to them for their Tythes and Offerings, yet the Commiſſioners Agents have not been wanting in the exact gathering of the Tithes and Offerings, not omitting the very Tithe Eggs.</p>
+                  <p n="5">5. That the Commiſſioners, or their Agents have hitherto taken little or no care in repairing of Churches and Schooles, divers of which are fallen to great decay, and what they allowed towards Contributions, may partly appeare by their owne ſhewing particular 4. where the Commiſſioners ingeni<g ref="char:EOLhyphen"/>ouſly confeſſed, that the Fifts and Contributions are not fully knowne, nor allowed, and what diſturbances the <hi>Petiti<g ref="char:EOLhyphen"/>oners</hi> brought on the Commiſſioners by their humble and mo<g ref="char:EOLhyphen"/>deſt addreſſe to the <hi>Parliament,</hi> ſetting forth their grievances, and craving redreſſe thereof; Having neither themſelves deny<g ref="char:EOLhyphen"/>ed to pay their Tithes, nor perſwaded, adviſed, or obſtructed others from paying the ſame, the Tithes being moſt ſtrictly and punctually paid then ever the <hi>Miniſters</hi> received it, is humbly left to your Honours conſideration.</p>
+                  <p>And if there have beene any diſturbance at all, as indeed there hath been too much, the ſame hath been done, committed, and occaſioned by the Itineraries &amp; Commiſſioners Agents, by their threats, railing and invective carriages, and expreſſions againſt the <hi>Petitioners,</hi> threatning them with Sequeſtration and ruine, for petitioning the <hi>Parliament,</hi> which carriages of theirs the Petitioners humbly conceive to be contrary to the knowne Rights, Liberties and Freedomes of this Nation. And to what difficulty the Commiſſioners have been put unto, in rayſing leſſe then 10000 <abbr>l.</abbr> 
+                     <hi>per annum</hi> out of the Tithes and Premiſes, when
+<pb n="46" facs="tcp:94444:29"/>
+as the <hi>Petitioners</hi> doe offer 20000 <abbr>l.</abbr> 
+                     <hi>per annum,</hi> for the ſame is humbly left to your Honours grave conſiderations.</p>
+               </div>
+               <div n="7" type="answer">
+                  <head>The Commiſſionrs 7. Anſwer.</head>
+                  <p>That wee fully know the contrary, as to places of any largeneſſe, to which a conſi<g ref="char:EOLhyphen"/>derable number of people be<g ref="char:EOLhyphen"/>long; But there may be ſome few Chappells ſhut up, and decayed in the time of the Warres, which the Inhabitants adjacent, having a more large and convenient place neare to attend the worſhip of God doe neglect, beſides the Repara<g ref="char:EOLhyphen"/>tion thereof is alwayes to be at their particular charge, whereto they have received no hinderance or diſcouragement from us.</p>
+               </div>
+               <div n="7" type="reply">
+                  <head>The Petitioners <hi>7.</hi> Reply.</head>
+                  <p>That as for thoſe few Churches that are ſtanding, and in repa<g ref="char:EOLhyphen"/>ration, the <hi>Petitioners</hi> have cauſe to bleſſe the Lord, for the care of the <hi>Parliament,</hi> in making an Act to enable Juſtices of the Peace, to raiſe Taxations towards the Reparation of Churches, amongſt whom the Lord hath beene pleaſed to raiſe a few that deſire the publick worſhip of his Name. But as for the Commiſſioners care therein, who are many of them Juſtices of the Peace, they ſhewed but ſmall affections to ſupport Churches, having contributed little or no<g ref="char:EOLhyphen"/>thing towards ſo pious a worke out of the vaſt Revenue of the Tithes, <hi>&amp;c.</hi> which they ought to have at leaſt wiſe ſo farre as it formerly concerned Tithes, whether Impropriate or Preſentatives, ſince the Commiſſioners and their Agents received the profits, chargeable with ſuch reparations. The <hi>Petitioners</hi> humbly conceived them bound in conſcience, and according to the truſt in them repoſed, not onely to repaire and uphold the Churches, which is the leaſt part of their duty, but alſo the worſhip, and glory of God therein; And what incouragement the Pariſhioners have to repaire, and uphold Churches at their owne particular charge, when they cannot get <hi>Miniſters</hi> to Preach the Word of God therein, and performe thoſe other ſpirituall Rights and duties, which ap<g ref="char:EOLhyphen"/>pertaine to the Church and <hi>Miniſtery</hi> of God is humbly left to your Honours pious conſideration.</p>
+                  <p>
+                     <pb facs="tcp:94444:29"/>The <hi>Petitioners</hi> further averting th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſince this Itinerary way of propagating the Goſpell hath beene ſet on foote in thoſe parts, the Paſtors and their particular Auditors take more delight in Teaching and Expounding the Word of God, <hi>&amp;c.</hi> in private Houſes and other places, then the publick Wor<g ref="char:EOLhyphen"/>ſhip of God in publique Churches, where the Inhabitants may have timely, and certaine notice to reſort to the ſame.</p>
+                  <p>And of this ſad truth, and all other their Aſſertions. The <hi>Petitirners</hi> call upon the Great God of Heaven, who knoweth all the wayes and ſecrets of man to beare witneſſe, the matter by them ſet forth and averred being ſuch viſible publique and knowne truths, that they doe admire at the ways of theſe that gaineſay, and goe about to ſuppreſſe the ſame; And the <hi>Petitioners</hi> next to the Lord doe appeale to all indifferent unbiaſſed Strangers, Travellers, Judges, Magiſtrates, that know thoſe parts, and to all other Inhabi<g ref="char:EOLhyphen"/>tants there, other then the Commiſſioners, and Tithes gatherers and perſons concerned to give evidence of the truth of what the <hi>Petitioners</hi> affirme.</p>
+               </div>
+               <div n="8" type="answer">
+                  <head>The Commiſſioners 8. Anſwer.</head>
+                  <p>That the Sheriffes and Ci<g ref="char:EOLhyphen"/>vill Magistrates take care to have them proclaimed at their Country Courts, and o<g ref="char:EOLhyphen"/>ther publique meetings, and to poſt them up in all mar<g ref="char:EOLhyphen"/>kept Townes, and the <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi> (where required) are not wanting therein. And wee humbly hope thoſe that formerly know our County, and now take notice of the al<g ref="char:EOLhyphen"/>teration, wrought amongſt
+<pb facs="tcp:94444:30"/>
+them through the speciall kindneſſe, and power of God going along with the Goſpell, will not eaſily believe they ſuffer much themſelves or the publique from them by any fault therein.</p>
+               </div>
+               <div n="8" type="reply">
+                  <pb facs="tcp:94444:29"/>
+                  <head>The Petitioners <hi>8</hi> Reply.</head>
+                  <p>That the <hi>Parliament</hi> have not onely thought fit to com<g ref="char:EOLhyphen"/>mand all publique Officers in <hi>England,</hi> to proclaime, and make knowne all their Acts, Edicts and Commands to the Inhabitants, but have alſo thought it fit, and neceſſary to command all <hi>Ministers,</hi> and <hi>Paſtors</hi> within their reſpective Congregations to publiſh and make knowne the ſame; To the end none may be ignorant
+<pb facs="tcp:94444:30"/>
+thereof. And that none of the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> poore Inhabitants may ſuffer the penalties of theſe Acts, for tranſgreſſing againſt the ſame, when they neither heard or ſaw the ſame, or were made privy therewith (there being a great diſtance betwixt <hi>Weſtminſter Hall</hi> and <hi>Wales.</hi>) And therefore the <hi>Petitioners</hi> doe well hope that the ſame commendable courſe, command<g ref="char:EOLhyphen"/>ded, and obſerved in <hi>England,</hi> ought to be alſo Practiſed in <hi>Wales,</hi> being part of the ſame Common-wealth, ſubject to the ſame Law, and Authority, and not independant or di<g ref="char:EOLhyphen"/>ſtant from the ſupreame Power of the <hi>Parliament.</hi> The <hi>Petitioners</hi> acknowledging the goodneſſe, and favour of the <hi>Parliament,</hi> to have beene all along equally diſtributed to them in their Acts, Orders and Edicts as well as to other parts of the Nation. But the <hi>Petitioners</hi> with griefe, and ſadneſſe of heart cannot but complaine for want of the due examination, and obſervance thereof.</p>
+                  <p>And whereas the ſaid Commiſſioners, or at leaſt wiſe thoſe that have put in their ſaid Anſwer, under a ſhew of Hu<g ref="char:EOLhyphen"/>manity, doe uncharitably conceive, and give forth that the Promoters of the <hi>Petition</hi> are perſons well known to be pre<g ref="char:EOLhyphen"/>tenders of the Worke of God, thereby to carry on other de<g ref="char:EOLhyphen"/>ſignes, branding them abroade, and before this Honourable Committee by way of Recrimination, with the Name of Malignants, Delinquents, and all affected perſons, and ſuch as have a deſigne to bring in power Malignants and to re-inveſt ſcandalous Malignant unpreaching <hi>Miniſters,</hi> and <hi>Curats,</hi> notwithſtanding their <hi>Petition</hi> and Proſecution thereof ſpeaks the contrary, The <hi>Petitioners</hi> and Promoters thereof dare appeale (as touching the ſincerity of their thoughts and af<g ref="char:EOLhyphen"/>fections to the <hi>Parliament,</hi> and the truth of the <hi>Petition</hi>) to the Righteous God, <hi>that judgeth righteouſly, and trieth the Heart, and Reynes, before whoſe Judgement Seat they doubt not but to appeare as innocent,</hi> from thoſe things laid to their
+<pb n="49" facs="tcp:94444:30"/>
+charge, as moſt of their Accuſers, who as they feare <hi>doe judge before their time,</hi> and are <hi>wiſe above what is Revealed.</hi> The Lord onely knowes who are his, and who are onely preten<g ref="char:EOLhyphen"/>ders of true Religion, and who not, and who they are that drive and carry at ſelfe intereſt, under faire and ſpecious pre<g ref="char:EOLhyphen"/>tences, and count gaine godlineſſe, making too great haſt to grow rich (which true Believers dare not doe.) The <hi>Petiti<g ref="char:EOLhyphen"/>oners</hi> therefore not regarding the judgement of men, dare truſt their Good and Gracious God in all Conditions, And doe humbly Acquieſce in his moſt Righteous Judgements.</p>
+                  <p>Earneſtly beſeeching your Honours, Seriouſly, Piouſly, and Chriſtianly to weigh and conſider the Premiſes, and the Par<g ref="char:EOLhyphen"/>ticulars exhibited by the <hi>Petitioners.</hi> And as it was impoſſible for the <hi>Petitioners</hi> to prepare the particulars of the ſeven Counties in two Dayes time, much leſſe in one, ſo it was impoſſible to Reply to the Commiſſioners Anſwer, untill they ſaw the ſame, and had a Copy thereof; Eſpecially not underſtanding the meaning of the Order, untill it was ex<g ref="char:EOLhyphen"/>plained. And as your Honours favourably entertained, and received their particulars, though the <hi>Petitioners</hi> for the rea<g ref="char:EOLhyphen"/>ſon aforeſaid failed in ſtrictneſſe of time; So they likewiſe pray your Honours to accept of this their <hi>Reply,</hi> the <hi>Petiti<g ref="char:EOLhyphen"/>oners</hi> having not obtained a Copy of their <hi>Anſwer,</hi> untill your Honours by the Order of the 16<hi rend="sup">th</hi> of <hi>July.</hi> did command, and Order the ſame, though your <hi>Petitioners</hi> ever ſince the 10. of <hi>May</hi> ſince it was lodged with this Committee, uſed their endeavours therein, which untill <hi>July</hi> the 16<hi rend="sup">th</hi> proved fruitleſſe; And the <hi>Petitioners</hi> pray this <hi>Reply</hi> may be added, and annexed to their particulars, to be reported to the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> that Command may iſſue fourth to the Countrey ac<g ref="char:EOLhyphen"/>cording to the <hi>Reſolves</hi> of <hi>Parliament,</hi> to examine Witneſſes for diſcovery, and manifeſtation of the truth of the premiſes.</p>
+                  <p>And the <hi>Petitioners</hi> likewiſe pray the particular Booke of Accompt, mentioned in the Report of the Sub-Committee, may be produced, and the <hi>Petitioners</hi> have a Copy thereof, with time and liberty to ſur-charge the ſame.</p>
+                  <p>And that your Honours would favourably conſider of all the grievances in Order to a ſettlement, of a convenient number of Godly able <hi>Miniſters,</hi> and <hi>Schoole-Maſters,</hi> ſuch
+<pb n="50" facs="tcp:94444:31"/>
+as the <hi>Parliament</hi> and your Honours ſhall approve of, and an accompt for the profits of the Tithes, <hi>&amp;c.</hi> Received ſince the Commiſſioners were impowered.</p>
+                  <p>And that in Order to a future ſupply of ſuch <hi>Miniſters,</hi> and <hi>Schoole-Maſters,</hi> and improving, and advancing the Tithes and Revenues aforeſaid; The <hi>Parliament</hi> will be pleaſed to take ſuch courſe therein, as they ſhall thinke meete; for <hi>where is no viſion the People periſh:</hi> And ſo having done our beſt endeavours therein, and diſcharged our Conſciences, we ſhall ſay no more at this time, but <hi>patiently waite on our God,</hi> who in his One time without doubt will beare Witneſſe of the Truth by the <hi>Petitioners</hi> Averred in the <hi>Petition.</hi> In which they aime at nothing more than the <hi>Glory</hi> of <hi>God,</hi> the good of His Church and People, The true <hi>Propagation</hi> of his glorious <hi>Goſpell;</hi> The ſafety and well-fare of their Countrey in particular, and this <hi>Commonwealth</hi> in generall, waiting in hope and Expectation of a bleſſing, and ſucceſſe accordnigly.</p>
+               </div>
+            </div>
+            <div type="letters">
+               <div type="letter">
+                  <head>Mr. <hi>Tho Lewis,</hi> Mr. <hi>Tho. Powell, and</hi> Mr. <hi>Griffith Hatley,</hi> their Letter to Mr. <hi>Jenk. Jones.</hi>
+                  </head>
+                  <p>
+                     <hi>MR.</hi> Jones, we deſire to be reſolved by you whether the ejected <hi>Miniſters</hi> of this Country, who have been ſilenced &amp; ſuſpen<g ref="char:EOLhyphen"/>ded (now this long time) <hi>ab officio &amp; beneficio</hi> may at laſt have the door of utterance opened, and be permitted to preach the Goſpel freely among thoſe that do much want it, &amp; do as earneſtly call for it, as the parched Earth after the dew and Raine of Heaven. The reaſon why we put this buſines to the queſtion is: becauſe about the laſt ſpring, ſome of our fellow Miniſters, taking the boldnes to preach the word of God, (were ſome of them) ſent priſoners to <hi>Chepſto</hi> Garriſon, others pull'd out of the Pulpit, and all the rest were threatned to have the ſame meaſure meted unto them, if they ſhould make the ſame attempts: and therefore wee deſire to know whether we are under the ſame reſtraint ſtill, or are at liberty: wee doubt not but that you can reſolve us herein, as well as any other in this County, and we hope you will be pleaſed to ſatisfie our civill requeſt herein, and vouchſafe a line of anſwer, which you may direct to either of the ſubſcribers, who are</p>
+                  <closer>
+                     <salute>Sir</salute>
+                     <signed>
+                        <hi>Your friends, as far as you are a friend to Chriſt, and his wayes</hi> Tho. Lewis. Tho. Powell. Griffith Hatley.</signed>
+                     <dateline>
+                        <date>Feb. <hi>6. 1653</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <pb n="51" facs="tcp:94444:31"/>
+                  <head>Mr. <hi>Jenk. Jones</hi> Letter in Anſwer to the former.</head>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>YOur Letter dated <hi>Feb.</hi> 6. 1653. I received the firſt of <hi>March.</hi> And in anſwer to what you propoſe therein, I ſhall onely put you in minde that you are ſtill, and (more) than like to be in the ſame condition, with thoſe in the laſt Spring; And tell you that you are to expect the ſame meaſure from the <note n="*" place="margin">See the Go<g ref="char:EOLhyphen"/>vernment, or the Articles ſigned by the Lord Protect<g ref="char:EOLhyphen"/>or.</note> preſent Power (whoſe connivance you ſeem (at leaſt) to fan<g ref="char:EOLhyphen"/>ſie to your ſelves.) As your brethren had the laſt Spring from the (then) powers; And alſo that you need not pretend your being preſſed as from pitty to water the parched earth, there being more Sermons Preached (now) in one moneth, then were formerly in twelve, and with very much (though I dare not ſay with a greater bleſſing; conſider the reſtraint-fearing-Spirit that's in you,</p>
+                  <closer>
+                     <signed>
+                        <hi>Your friend, and ſervant,</hi> Jen. Jones.</signed>
+                     <dateline>
+                        <date>March 2. 1653.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="letter">
+                  <head>Mr. <hi>Lewis,</hi> Mr. <hi>Powel,</hi> and Mr. <hi>Ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lies Reply to Mr.</hi> Jenkin Jones <hi>Anſwer.</hi>
+                  </head>
+                  <p>
+                     <hi>MR.</hi> Jones, wee thank you for your Letter: wherein you have fully reſolved us, what we muſt expect, if we Preach the Goſpell in this poor Countrey; nothing but bonds and impriſonment (if you divine aright) abide us. If we be ſilent, and do not Preach, we are reproached, and if we do Preach we are menaced. A hard <hi>dilemma.</hi> Sir, notwithſtanding your paines in preaching (which never<g ref="char:EOLhyphen"/>theleſs is much abated of what it was, ſince you have caught the f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h that you looked for) there are many dry and thirſty ſoules in this Country that are very ſeldom refreſhed with the dew of Heavenly Doctrine, and for want thereof do daily relapſe to Popery, and that in no ſmall number; we could name above <hi>20</hi> Pariſh churches in this County, in many whereof there have not been above two Sermons this <hi>12</hi> moneth, and in moſt of them none at all: yet the Inhabitants pay their Tithes ſtill as formerly. Their com<g ref="char:EOLhyphen"/>plaints
+<pb n="52" facs="tcp:94444:32" rendition="simple:additions"/>
+have fill'd the ears of men long ſince, and have (no doubt e're this) aſcended up to the eares of the Lord of Sa<g ref="char:EOLhyphen"/>both We ſhall therefore (in compaſsion to theſe poor ſoules) adventure to beſtow our paines among them, and put our ſelves upon the candor &amp; clemency of our preſent Gover<g ref="char:EOLhyphen"/>nour, from whom we do expect (and doubt not to find) bet<g ref="char:EOLhyphen"/>ter meaſure then you forbad us; or then our fellow Mini<g ref="char:EOLhyphen"/>ſters received (the laſt Spring) when other powers ſwayed, to wit, your own.</p>
+                  <p>That there are more Sermons preached (now) in a month then was formerly in <hi>12.</hi> will hardly finde credit, with any that knowes this Country, and is ſuch a ſtory that men will admire to have proceeded from your Pen: ſince that we do not know of above two Itinerant Preachers, reſident in the Country (and one of the two hardly worth the name of a Preacher) whereas formerly there was a preaching Mi<g ref="char:EOLhyphen"/>niſter (almoſt) in every pariſh (ſome Impropriations ex<g ref="char:EOLhyphen"/>cept) and moſt of them graduated in the Univerſities, and able and painfull men in their callings. Conſider better of that paſſage of your Letter, and conſider what ſpirit you are of; for the Spirit of God is a ſpirit of truth, <hi>Nec men<g ref="char:EOLhyphen"/>dax eſt, nec mordax.</hi>
+                  </p>
+                  <closer>
+                     <signed>Your loving friends <hi>Tho. Lewis, Tho. Pow. Gr. Hatly.</hi>
+                     </signed>
+                     <dateline>
+                        <date>March <hi>6. 1653.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </div>
+            </div>
+         </div>
+         <div type="conclusion">
+            <p>And thus you have a full Narration of the <hi>Petition,</hi> the <hi>Petitioners</hi> charge, The Commiſſioners Anſwer, and the Reply thereunto, which makes evi<g ref="char:EOLhyphen"/>dent to all <hi>Christian ſoules,</hi> the deplorable <hi>Condition</hi> of the <hi>Inhabitants of Wales</hi> concerning their Soules we fare, wherein they continue to this very day: enduring a Famine of the Word, and the <hi>Bread of life,</hi> being tendered unto them, is forbidden; As may appeare by theſe Letters ſent unto me from 3 Reverend and Orthodox Miniſters, and Batchelors of Divinity, within the County of <hi>Brecknock,</hi> directed to Capt <hi>Jenk Jones,</hi> one of the <hi>Itineraries,</hi> with his unchriſtian, and inſolent Anſwer thereunto.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
